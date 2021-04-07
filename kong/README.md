@@ -1,5 +1,7 @@
 ### 本地安装Kong
 
+docker-compose 批量容器编排
+
 ```shell
 cd 当前目录
 docker-compose up -d
@@ -24,4 +26,10 @@ http://kong:8001
 ```shell
  # mac 查看公钥
  cat  ~/.ssh/id_rsa.pub
+```
+
+### 停止
+
+```shell
+
 ```

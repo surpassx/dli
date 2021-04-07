@@ -1,0 +1,19 @@
+version: '2.0'
+services:
+  web:
+    build: .
+    ports:
+      - "5000:5000"
+    volumes:
+      - .:/code
+      - logvolume01:/var/log
+    links:
+      - redis
+  redis:
+    image: redis
+volumes:
+  logvolume01: { }
+
+# Compose 重要概念
+# 服务Services 容器,应用 (web,redis,mysql)
+# 项目 project 一组关联的容器 对外的业务单元
