@@ -1,2 +1,6 @@
-2021-05-03_13:53:02.84832 Server listening on 0.0.0.0 port 22.
-2021-05-03_13:53:02.85301 Server listening on :: port 22.
+2021-05-05_13:22:10.74205 Server listening on 0.0.0.0 port 22.
+2021-05-05_13:22:10.74483 Server listening on :: port 22.
+2021-05-05_13:24:59.85151 Bad protocol version identification 'GET / HTTP/1.1' from 172.19.0.1 port 60210
+2021-05-05_13:25:00.93968 Bad protocol version identification 'GET / HTTP/1.1' from 172.19.0.1 port 60206
+2021-05-05_13:25:06.02190 Bad protocol version identification 'GET / HTTP/1.1' from 172.19.0.1 port 60220
+2021-05-05_13:26:15.95302 Did not receive identification string from 172.19.0.1

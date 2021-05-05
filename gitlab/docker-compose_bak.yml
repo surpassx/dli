@@ -9,7 +9,7 @@ services:
     environment:
       TZ: 'Asia/Shanghai'
       GITLAB_OMNIBUS_CONFIG: |
-        external_url 'http://59.110.124.65'   # 配置当前服务器ip
+        external_url 'http://127.0.0.1'   # 配置当前服务器ip
         gitlab_rails['time_zone'] = 'Asia/Shanghai'
         gitlab_rails['smtp_enable'] = true
         gitlab_rails['gitlab_shell_ssh_port'] = 2222
@@ -18,6 +18,6 @@ services:
       - '2443:443'
       - '2222:22'
     volumes:
-      - /opt/gitlab/config:/etc/gitlab
-      - /opt/gitlab/data:/var/opt/gitlab
-      - /opt/gitlab/logs:/var/log/gitlab
+      - /Users/pm/coding/docker.compose/gitlab/opt/gitlab/config:/etc/gitlab
+      - /Users/pm/coding/docker.compose/gitlab/opt/gitlab/data:/var/opt/gitlab
+      - /Users/pm/coding/docker.compose/gitlab/opt/gitlab/logs:/var/log/gitlab
