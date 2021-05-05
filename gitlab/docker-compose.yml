@@ -3,11 +3,11 @@ services:
   web:
     image: 'gitlab/gitlab-ce:latest' # gitlab镜像
     restart: always
-    hostname: '192.168.1.60' # 主机ip
+    hostname: 'gitlab' # 主机ip
     environment:
       TZ: 'Asia/Shanghai'
       GITLAB_OMNIBUS_CONFIG: |
-        external_url 'http://http://59.110.124.65' # 访问地址
+        external_url 'http://59.110.124.65' # 访问地址
         gitlab_rails['gitlab_shell_ssh_port'] = 2222
         unicorn['port'] = 8888
         nginx['listen_port'] = 80

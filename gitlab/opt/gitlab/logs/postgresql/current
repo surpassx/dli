@@ -303,3 +303,9 @@
 2021-05-05_12:54:03.58904 WARNING:  could not open statistics file "pg_stat_tmp/global.stat": Operation not permitted
 2021-05-05_12:54:34.65283 WARNING:  could not open statistics file "pg_stat_tmp/global.stat": Operation not permitted
 2021-05-05_12:54:48.99024 WARNING:  could not open statistics file "pg_stat_tmp/global.stat": Operation not permitted
+2021-05-05_12:59:33.51355 WARNING:  could not open statistics file "pg_stat_tmp/global.stat": Operation not permitted
+2021-05-05_13:05:18.83861 WARNING:  could not open statistics file "pg_stat_tmp/global.stat": Operation not permitted
+2021-05-05_13:06:03.17763 WARNING:  could not open statistics file "pg_stat_tmp/global.stat": Operation not permitted
+2021-05-05_13:08:02.92157 WARNING:  could not open statistics file "pg_stat_tmp/global.stat": Operation not permitted
+2021-05-05_13:08:18.15118 WARNING:  could not open statistics file "pg_stat_tmp/global.stat": Operation not permitted
+2021-05-05_13:13:06.99982 WARNING:  could not open statistics file "pg_stat_tmp/global.stat": Operation not permitted
