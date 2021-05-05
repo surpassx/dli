@@ -9359,3 +9359,1527 @@ Completed 200 OK in 2ms (Views: 0.6ms | ActiveRecord: 0.0ms)
 Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 10:54:36 +0000
 Processing by MetricsController#index as HTML
 Completed 200 OK in 5ms (Views: 2.1ms | ActiveRecord: 0.0ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 10:54:51 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 3ms (Views: 1.0ms | ActiveRecord: 0.0ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 10:55:06 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 4ms (Views: 2.1ms | ActiveRecord: 0.0ms)
+Started GET "/help" for 127.0.0.1 at 2021-05-05 10:55:19 +0000
+Processing by HelpController#index as */*
+Completed 200 OK in 160ms (Views: 148.4ms | ActiveRecord: 1.2ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 10:55:21 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 3ms (Views: 1.0ms | ActiveRecord: 0.0ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 10:55:36 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 1ms (Views: 0.4ms | ActiveRecord: 0.0ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 10:55:51 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 2ms (Views: 0.7ms | ActiveRecord: 0.0ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 10:56:06 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 1ms (Views: 0.3ms | ActiveRecord: 0.0ms)
+Started GET "/help" for 127.0.0.1 at 2021-05-05 10:56:19 +0000
+Processing by HelpController#index as */*
+Completed 200 OK in 134ms (Views: 129.7ms | ActiveRecord: 1.1ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 10:56:21 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 1ms (Views: 0.3ms | ActiveRecord: 0.0ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 10:56:36 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 1ms (Views: 0.3ms | ActiveRecord: 0.0ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 10:56:51 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 1ms (Views: 0.2ms | ActiveRecord: 0.0ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 10:57:06 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 7ms (Views: 1.2ms | ActiveRecord: 0.0ms)
+Started GET "/help" for 127.0.0.1 at 2021-05-05 10:57:20 +0000
+Processing by HelpController#index as */*
+Completed 200 OK in 146ms (Views: 131.2ms | ActiveRecord: 1.2ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 10:57:21 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 2ms (Views: 1.0ms | ActiveRecord: 0.0ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 10:57:36 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 1ms (Views: 0.2ms | ActiveRecord: 0.0ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 10:57:51 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 3ms (Views: 1.0ms | ActiveRecord: 0.0ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 10:58:06 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 4ms (Views: 0.7ms | ActiveRecord: 0.0ms)
+Started GET "/help" for 127.0.0.1 at 2021-05-05 10:58:20 +0000
+Processing by HelpController#index as */*
+Completed 200 OK in 325ms (Views: 307.0ms | ActiveRecord: 1.0ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 10:58:21 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 1ms (Views: 0.3ms | ActiveRecord: 0.0ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 10:58:36 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 2ms (Views: 1.6ms | ActiveRecord: 0.0ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 10:58:51 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 1ms (Views: 0.3ms | ActiveRecord: 0.0ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 10:59:06 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 1ms (Views: 0.3ms | ActiveRecord: 0.0ms)
+Started GET "/help" for 127.0.0.1 at 2021-05-05 10:59:20 +0000
+Processing by HelpController#index as */*
+Completed 200 OK in 136ms (Views: 131.5ms | ActiveRecord: 0.7ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 10:59:21 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 2ms (Views: 0.6ms | ActiveRecord: 0.0ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 10:59:36 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 1ms (Views: 0.4ms | ActiveRecord: 0.0ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 10:59:51 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 1ms (Views: 0.3ms | ActiveRecord: 0.0ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 11:00:06 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 2ms (Views: 0.7ms | ActiveRecord: 0.0ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 11:00:21 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 1ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+Started GET "/help" for 127.0.0.1 at 2021-05-05 11:00:21 +0000
+Processing by HelpController#index as */*
+Completed 200 OK in 172ms (Views: 167.7ms | ActiveRecord: 0.9ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 11:00:36 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 6ms (Views: 1.8ms | ActiveRecord: 0.0ms)
+StuckCiJobsWorker: Cleaning stuck builds
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 11:00:51 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 2ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 11:01:06 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 1ms (Views: 0.2ms | ActiveRecord: 0.0ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 11:01:21 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 1ms (Views: 0.3ms | ActiveRecord: 0.0ms)
+Started GET "/help" for 127.0.0.1 at 2021-05-05 11:01:21 +0000
+Processing by HelpController#index as */*
+Completed 200 OK in 240ms (Views: 232.4ms | ActiveRecord: 2.6ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 11:01:36 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 1ms (Views: 0.3ms | ActiveRecord: 0.0ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 11:01:51 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 3ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 11:02:05 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 1ms (Views: 0.3ms | ActiveRecord: 0.0ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 11:02:20 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 1ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+Started GET "/help" for 127.0.0.1 at 2021-05-05 11:02:21 +0000
+Processing by HelpController#index as */*
+Completed 200 OK in 148ms (Views: 139.5ms | ActiveRecord: 0.9ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 11:02:35 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 1ms (Views: 0.3ms | ActiveRecord: 0.0ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 11:02:50 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 1ms (Views: 0.2ms | ActiveRecord: 0.0ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 11:03:05 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 1ms (Views: 0.2ms | ActiveRecord: 0.0ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 11:03:20 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 1ms (Views: 0.3ms | ActiveRecord: 0.0ms)
+Started GET "/help" for 127.0.0.1 at 2021-05-05 11:03:22 +0000
+Processing by HelpController#index as */*
+Completed 200 OK in 199ms (Views: 192.3ms | ActiveRecord: 0.9ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 11:03:35 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 8ms (Views: 2.4ms | ActiveRecord: 0.0ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 11:03:50 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 1ms (Views: 0.3ms | ActiveRecord: 0.0ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 11:04:05 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 1ms (Views: 0.4ms | ActiveRecord: 0.0ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 11:04:20 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 1ms (Views: 0.2ms | ActiveRecord: 0.0ms)
+Started GET "/help" for 127.0.0.1 at 2021-05-05 11:04:22 +0000
+Processing by HelpController#index as */*
+Completed 200 OK in 158ms (Views: 153.1ms | ActiveRecord: 0.9ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 11:04:35 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 1ms (Views: 0.3ms | ActiveRecord: 0.0ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 11:04:50 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 1ms (Views: 0.3ms | ActiveRecord: 0.0ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 11:05:05 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 1ms (Views: 0.3ms | ActiveRecord: 0.0ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 11:05:20 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 1ms (Views: 0.3ms | ActiveRecord: 0.0ms)
+Started GET "/help" for 127.0.0.1 at 2021-05-05 11:05:22 +0000
+Processing by HelpController#index as */*
+Completed 200 OK in 95ms (Views: 91.1ms | ActiveRecord: 0.7ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 11:05:35 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 1ms (Views: 0.2ms | ActiveRecord: 0.0ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 11:05:50 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 5ms (Views: 1.7ms | ActiveRecord: 0.0ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 11:06:05 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 4ms (Views: 1.3ms | ActiveRecord: 0.0ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 11:06:20 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 5ms (Views: 1.3ms | ActiveRecord: 0.0ms)
+Started GET "/help" for 127.0.0.1 at 2021-05-05 11:06:22 +0000
+Processing by HelpController#index as */*
+Completed 200 OK in 167ms (Views: 161.7ms | ActiveRecord: 1.5ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 11:06:35 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 1ms (Views: 0.3ms | ActiveRecord: 0.0ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 11:06:50 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 2ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 11:07:05 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 2ms (Views: 0.6ms | ActiveRecord: 0.0ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 11:07:20 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 1ms (Views: 0.4ms | ActiveRecord: 0.0ms)
+Started GET "/help" for 127.0.0.1 at 2021-05-05 11:07:23 +0000
+Processing by HelpController#index as */*
+Completed 200 OK in 217ms (Views: 209.1ms | ActiveRecord: 1.2ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 11:07:35 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 1ms (Views: 0.4ms | ActiveRecord: 0.0ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 11:07:50 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 5ms (Views: 1.4ms | ActiveRecord: 0.0ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 11:08:05 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 8ms (Views: 5.3ms | ActiveRecord: 0.0ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 11:08:20 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 1ms (Views: 0.3ms | ActiveRecord: 0.0ms)
+Started GET "/help" for 127.0.0.1 at 2021-05-05 11:08:23 +0000
+Processing by HelpController#index as */*
+Completed 200 OK in 165ms (Views: 155.2ms | ActiveRecord: 0.7ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 11:08:35 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 4ms (Views: 1.3ms | ActiveRecord: 0.0ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 11:08:50 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 1ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 11:09:05 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 1ms (Views: 0.3ms | ActiveRecord: 0.0ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 11:09:20 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 2ms (Views: 0.6ms | ActiveRecord: 0.0ms)
+Started GET "/help" for 127.0.0.1 at 2021-05-05 11:09:23 +0000
+Processing by HelpController#index as */*
+Completed 200 OK in 164ms (Views: 159.0ms | ActiveRecord: 1.4ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 11:09:35 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 11ms (Views: 1.3ms | ActiveRecord: 0.0ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 11:09:50 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 5ms (Views: 0.9ms | ActiveRecord: 0.0ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 11:10:05 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 2ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 11:10:20 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 1ms (Views: 0.3ms | ActiveRecord: 0.0ms)
+Started GET "/help" for 127.0.0.1 at 2021-05-05 11:10:23 +0000
+Processing by HelpController#index as */*
+Completed 200 OK in 184ms (Views: 179.1ms | ActiveRecord: 1.0ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 11:10:35 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 2ms (Views: 0.7ms | ActiveRecord: 0.0ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 11:10:50 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 4ms (Views: 1.8ms | ActiveRecord: 0.0ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 11:11:05 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 1ms (Views: 0.2ms | ActiveRecord: 0.0ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 11:11:20 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 1ms (Views: 0.2ms | ActiveRecord: 0.0ms)
+Started GET "/help" for 127.0.0.1 at 2021-05-05 11:11:24 +0000
+Processing by HelpController#index as */*
+Completed 200 OK in 127ms (Views: 122.3ms | ActiveRecord: 0.9ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 11:11:35 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 1ms (Views: 0.3ms | ActiveRecord: 0.0ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 11:11:50 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 1ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 11:12:05 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 4ms (Views: 0.8ms | ActiveRecord: 0.0ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 11:12:20 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 4ms (Views: 0.3ms | ActiveRecord: 0.0ms)
+Started GET "/help" for 127.0.0.1 at 2021-05-05 11:12:24 +0000
+Processing by HelpController#index as */*
+Completed 200 OK in 233ms (Views: 225.4ms | ActiveRecord: 0.9ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 11:12:35 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 1ms (Views: 0.3ms | ActiveRecord: 0.0ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 11:12:50 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 1ms (Views: 0.6ms | ActiveRecord: 0.0ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 11:13:05 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 1ms (Views: 0.2ms | ActiveRecord: 0.0ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 11:13:20 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 1ms (Views: 0.2ms | ActiveRecord: 0.0ms)
+Started GET "/help" for 127.0.0.1 at 2021-05-05 11:13:24 +0000
+Processing by HelpController#index as */*
+Completed 200 OK in 141ms (Views: 132.5ms | ActiveRecord: 1.0ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 11:13:35 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 1ms (Views: 0.3ms | ActiveRecord: 0.0ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 11:13:50 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 1ms (Views: 0.2ms | ActiveRecord: 0.0ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 11:14:05 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 2ms (Views: 0.7ms | ActiveRecord: 0.0ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 11:14:20 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 1ms (Views: 0.3ms | ActiveRecord: 0.0ms)
+Started GET "/help" for 127.0.0.1 at 2021-05-05 11:14:25 +0000
+Processing by HelpController#index as */*
+Completed 200 OK in 150ms (Views: 144.4ms | ActiveRecord: 1.3ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 11:14:35 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 1ms (Views: 0.3ms | ActiveRecord: 0.0ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 11:14:50 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 1ms (Views: 0.4ms | ActiveRecord: 0.0ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 11:15:05 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 1ms (Views: 0.2ms | ActiveRecord: 0.0ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 11:15:20 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 1ms (Views: 0.3ms | ActiveRecord: 0.0ms)
+Started GET "/help" for 127.0.0.1 at 2021-05-05 11:15:25 +0000
+Processing by HelpController#index as */*
+Completed 200 OK in 179ms (Views: 173.7ms | ActiveRecord: 1.8ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 11:15:34 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 1ms (Views: 0.2ms | ActiveRecord: 0.0ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 11:15:49 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 2ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 11:16:04 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 1ms (Views: 0.3ms | ActiveRecord: 0.0ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 11:16:19 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 2ms (Views: 0.6ms | ActiveRecord: 0.0ms)
+Started GET "/help" for 127.0.0.1 at 2021-05-05 11:16:25 +0000
+Processing by HelpController#index as */*
+Completed 200 OK in 268ms (Views: 259.1ms | ActiveRecord: 1.8ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 11:16:34 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 2ms (Views: 0.7ms | ActiveRecord: 0.0ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 11:16:49 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 1ms (Views: 0.2ms | ActiveRecord: 0.0ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 11:17:04 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 2ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 11:17:19 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 2ms (Views: 0.7ms | ActiveRecord: 0.0ms)
+Started GET "/help" for 127.0.0.1 at 2021-05-05 11:17:26 +0000
+Processing by HelpController#index as */*
+Completed 200 OK in 156ms (Views: 143.9ms | ActiveRecord: 4.9ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 11:17:34 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 1ms (Views: 0.4ms | ActiveRecord: 0.0ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 11:17:49 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 1ms (Views: 0.3ms | ActiveRecord: 0.0ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 11:18:04 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 1ms (Views: 0.2ms | ActiveRecord: 0.0ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 11:18:19 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 1ms (Views: 0.3ms | ActiveRecord: 0.0ms)
+Started GET "/help" for 127.0.0.1 at 2021-05-05 11:18:26 +0000
+Processing by HelpController#index as */*
+Completed 200 OK in 141ms (Views: 135.6ms | ActiveRecord: 0.7ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 11:18:34 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 1ms (Views: 0.4ms | ActiveRecord: 0.0ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 11:18:49 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 3ms (Views: 2.1ms | ActiveRecord: 0.0ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 11:19:04 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 1ms (Views: 0.3ms | ActiveRecord: 0.0ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 11:19:19 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 1ms (Views: 0.2ms | ActiveRecord: 0.0ms)
+Started GET "/help" for 127.0.0.1 at 2021-05-05 11:19:26 +0000
+Processing by HelpController#index as */*
+Completed 200 OK in 165ms (Views: 156.1ms | ActiveRecord: 1.9ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 11:19:34 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 1ms (Views: 0.2ms | ActiveRecord: 0.0ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 11:19:49 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 2ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 11:20:04 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 1ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 11:20:19 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 1ms (Views: 0.3ms | ActiveRecord: 0.0ms)
+Started GET "/help" for 127.0.0.1 at 2021-05-05 11:20:26 +0000
+Processing by HelpController#index as */*
+Completed 200 OK in 151ms (Views: 144.9ms | ActiveRecord: 0.8ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 11:20:34 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 1ms (Views: 0.2ms | ActiveRecord: 0.0ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 11:20:49 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 2ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 11:21:04 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 2ms (Views: 0.6ms | ActiveRecord: 0.0ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 11:21:19 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 1ms (Views: 0.4ms | ActiveRecord: 0.0ms)
+Started GET "/help" for 127.0.0.1 at 2021-05-05 11:21:27 +0000
+Processing by HelpController#index as */*
+Completed 200 OK in 124ms (Views: 120.4ms | ActiveRecord: 0.8ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 11:21:34 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 1ms (Views: 0.3ms | ActiveRecord: 0.0ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 11:21:49 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 1ms (Views: 0.4ms | ActiveRecord: 0.0ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 11:22:04 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 2ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 11:22:19 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 1ms (Views: 0.3ms | ActiveRecord: 0.0ms)
+Started GET "/help" for 127.0.0.1 at 2021-05-05 11:22:27 +0000
+Processing by HelpController#index as */*
+Completed 200 OK in 131ms (Views: 126.0ms | ActiveRecord: 1.0ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 11:22:34 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 2ms (Views: 0.4ms | ActiveRecord: 0.0ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 11:22:49 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 1ms (Views: 0.4ms | ActiveRecord: 0.0ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 11:23:04 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 1ms (Views: 0.3ms | ActiveRecord: 0.0ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 11:23:19 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 1ms (Views: 0.2ms | ActiveRecord: 0.0ms)
+Started GET "/help" for 127.0.0.1 at 2021-05-05 11:23:27 +0000
+Processing by HelpController#index as */*
+Completed 200 OK in 133ms (Views: 125.6ms | ActiveRecord: 1.0ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 11:23:34 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 1ms (Views: 0.2ms | ActiveRecord: 0.0ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 11:23:49 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 1ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 11:24:04 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 1ms (Views: 0.2ms | ActiveRecord: 0.0ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 11:24:19 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 3ms (Views: 0.7ms | ActiveRecord: 0.0ms)
+Started GET "/help" for 127.0.0.1 at 2021-05-05 11:24:27 +0000
+Processing by HelpController#index as */*
+Completed 200 OK in 128ms (Views: 123.4ms | ActiveRecord: 0.9ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 11:24:34 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 1ms (Views: 0.2ms | ActiveRecord: 0.0ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 11:24:49 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 1ms (Views: 0.2ms | ActiveRecord: 0.0ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 11:25:04 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 1ms (Views: 0.2ms | ActiveRecord: 0.0ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 11:25:19 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 1ms (Views: 0.3ms | ActiveRecord: 0.0ms)
+Started GET "/help" for 127.0.0.1 at 2021-05-05 11:25:28 +0000
+Processing by HelpController#index as */*
+Completed 200 OK in 106ms (Views: 101.8ms | ActiveRecord: 0.7ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 11:25:34 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 1ms (Views: 0.3ms | ActiveRecord: 0.0ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 11:25:49 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 6ms (Views: 0.2ms | ActiveRecord: 0.0ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 11:26:04 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 1ms (Views: 0.4ms | ActiveRecord: 0.0ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 11:26:19 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 3ms (Views: 1.0ms | ActiveRecord: 0.0ms)
+Started GET "/help" for 127.0.0.1 at 2021-05-05 11:26:28 +0000
+Processing by HelpController#index as */*
+Completed 200 OK in 137ms (Views: 133.3ms | ActiveRecord: 0.8ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 11:26:34 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 1ms (Views: 0.2ms | ActiveRecord: 0.0ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 11:26:49 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 2ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 11:27:04 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 1ms (Views: 0.3ms | ActiveRecord: 0.0ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 11:27:19 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 2ms (Views: 0.6ms | ActiveRecord: 0.0ms)
+Started GET "/help" for 127.0.0.1 at 2021-05-05 11:27:28 +0000
+Processing by HelpController#index as */*
+Completed 200 OK in 105ms (Views: 127.1ms | ActiveRecord: 0.9ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 11:27:34 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 5ms (Views: 1.9ms | ActiveRecord: 0.0ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 11:27:49 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 2ms (Views: 0.4ms | ActiveRecord: 0.0ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 11:28:04 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 1ms (Views: 0.3ms | ActiveRecord: 0.0ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 11:28:19 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 1ms (Views: 0.3ms | ActiveRecord: 0.0ms)
+Started GET "/help" for 127.0.0.1 at 2021-05-05 11:28:28 +0000
+Processing by HelpController#index as */*
+Completed 200 OK in 126ms (Views: 114.9ms | ActiveRecord: 0.7ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 11:28:34 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 1ms (Views: 0.3ms | ActiveRecord: 0.0ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 11:28:49 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 1ms (Views: 0.3ms | ActiveRecord: 0.0ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 11:29:04 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 1ms (Views: 0.3ms | ActiveRecord: 0.0ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 11:29:19 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 1ms (Views: 0.3ms | ActiveRecord: 0.0ms)
+Started GET "/help" for 127.0.0.1 at 2021-05-05 11:29:29 +0000
+Processing by HelpController#index as */*
+Completed 200 OK in 168ms (Views: 157.1ms | ActiveRecord: 2.3ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 11:29:34 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 6ms (Views: 2.0ms | ActiveRecord: 0.0ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 11:29:49 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 1ms (Views: 0.2ms | ActiveRecord: 0.0ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 11:30:03 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 1ms (Views: 0.2ms | ActiveRecord: 0.0ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 11:30:18 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 1ms (Views: 0.2ms | ActiveRecord: 0.0ms)
+Started GET "/help" for 127.0.0.1 at 2021-05-05 11:30:29 +0000
+Processing by HelpController#index as */*
+Completed 200 OK in 131ms (Views: 127.3ms | ActiveRecord: 0.8ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 11:30:33 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 1ms (Views: 0.3ms | ActiveRecord: 0.0ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 11:30:48 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 1ms (Views: 0.3ms | ActiveRecord: 0.0ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 11:31:03 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 1ms (Views: 0.3ms | ActiveRecord: 0.0ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 11:31:18 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 1ms (Views: 0.3ms | ActiveRecord: 0.0ms)
+Started GET "/help" for 127.0.0.1 at 2021-05-05 11:31:29 +0000
+Processing by HelpController#index as */*
+Completed 200 OK in 117ms (Views: 112.5ms | ActiveRecord: 0.9ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 11:31:33 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 1ms (Views: 0.3ms | ActiveRecord: 0.0ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 11:31:48 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 1ms (Views: 0.2ms | ActiveRecord: 0.0ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 11:32:03 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 3ms (Views: 0.3ms | ActiveRecord: 0.0ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 11:32:18 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 2ms (Views: 0.6ms | ActiveRecord: 0.0ms)
+Started GET "/help" for 127.0.0.1 at 2021-05-05 11:32:30 +0000
+Processing by HelpController#index as */*
+Completed 200 OK in 167ms (Views: 159.4ms | ActiveRecord: 1.1ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 11:32:33 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 1ms (Views: 0.3ms | ActiveRecord: 0.0ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 11:32:48 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 1ms (Views: 0.2ms | ActiveRecord: 0.0ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 11:33:03 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 2ms (Views: 0.7ms | ActiveRecord: 0.0ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 11:33:18 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 2ms (Views: 0.7ms | ActiveRecord: 0.0ms)
+Started GET "/help" for 127.0.0.1 at 2021-05-05 11:33:30 +0000
+Processing by HelpController#index as */*
+Completed 200 OK in 109ms (Views: 101.2ms | ActiveRecord: 0.9ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 11:33:33 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 3ms (Views: 1.2ms | ActiveRecord: 0.0ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 11:33:48 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 1ms (Views: 0.4ms | ActiveRecord: 0.0ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 11:34:03 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 1ms (Views: 0.3ms | ActiveRecord: 0.0ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 11:34:18 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 2ms (Views: 0.3ms | ActiveRecord: 0.0ms)
+Started GET "/help" for 127.0.0.1 at 2021-05-05 11:34:30 +0000
+Processing by HelpController#index as */*
+Completed 200 OK in 120ms (Views: 111.7ms | ActiveRecord: 1.3ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 11:34:33 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 1ms (Views: 0.4ms | ActiveRecord: 0.0ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 11:34:48 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 2ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 11:35:03 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 2ms (Views: 0.4ms | ActiveRecord: 0.0ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 11:35:18 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 1ms (Views: 0.2ms | ActiveRecord: 0.0ms)
+Started GET "/help" for 127.0.0.1 at 2021-05-05 11:35:30 +0000
+Processing by HelpController#index as */*
+Completed 200 OK in 134ms (Views: 121.1ms | ActiveRecord: 1.0ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 11:35:33 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 1ms (Views: 0.3ms | ActiveRecord: 0.0ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 11:35:48 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 1ms (Views: 0.2ms | ActiveRecord: 0.0ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 11:36:03 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 1ms (Views: 0.2ms | ActiveRecord: 0.0ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 11:36:18 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 3ms (Views: 0.8ms | ActiveRecord: 0.0ms)
+Started GET "/help" for 127.0.0.1 at 2021-05-05 11:36:30 +0000
+Processing by HelpController#index as */*
+Completed 200 OK in 157ms (Views: 151.5ms | ActiveRecord: 1.3ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 11:36:33 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 2ms (Views: 0.7ms | ActiveRecord: 0.0ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 11:36:48 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 1ms (Views: 0.4ms | ActiveRecord: 0.0ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 11:37:03 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 1ms (Views: 0.2ms | ActiveRecord: 0.0ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 11:37:18 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 1ms (Views: 0.3ms | ActiveRecord: 0.0ms)
+Started GET "/help" for 127.0.0.1 at 2021-05-05 11:37:31 +0000
+Processing by HelpController#index as */*
+Completed 200 OK in 126ms (Views: 122.0ms | ActiveRecord: 0.7ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 11:37:33 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 1ms (Views: 0.3ms | ActiveRecord: 0.0ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 11:37:48 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 1ms (Views: 0.3ms | ActiveRecord: 0.0ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 11:38:03 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 1ms (Views: 0.3ms | ActiveRecord: 0.0ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 11:38:18 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 1ms (Views: 0.3ms | ActiveRecord: 0.0ms)
+Started GET "/help" for 127.0.0.1 at 2021-05-05 11:38:31 +0000
+Processing by HelpController#index as */*
+Completed 200 OK in 142ms (Views: 135.0ms | ActiveRecord: 1.1ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 11:38:33 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 1ms (Views: 0.3ms | ActiveRecord: 0.0ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 11:38:48 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 1ms (Views: 0.3ms | ActiveRecord: 0.0ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 11:39:03 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 1ms (Views: 0.3ms | ActiveRecord: 0.0ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 11:39:18 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 1ms (Views: 0.3ms | ActiveRecord: 0.0ms)
+Started GET "/help" for 127.0.0.1 at 2021-05-05 11:39:31 +0000
+Processing by HelpController#index as */*
+Completed 200 OK in 155ms (Views: 149.1ms | ActiveRecord: 0.9ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 11:39:33 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 1ms (Views: 0.3ms | ActiveRecord: 0.0ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 11:39:48 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 4ms (Views: 1.2ms | ActiveRecord: 0.0ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 11:40:03 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 3ms (Views: 1.0ms | ActiveRecord: 0.0ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 11:40:18 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 2ms (Views: 0.4ms | ActiveRecord: 0.0ms)
+Started GET "/help" for 127.0.0.1 at 2021-05-05 11:40:31 +0000
+Processing by HelpController#index as */*
+Completed 200 OK in 128ms (Views: 124.0ms | ActiveRecord: 0.7ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 11:40:33 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 1ms (Views: 0.3ms | ActiveRecord: 0.0ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 11:40:48 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 2ms (Views: 0.6ms | ActiveRecord: 0.0ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 11:41:03 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 2ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 11:41:18 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 2ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+Started GET "/help" for 127.0.0.1 at 2021-05-05 11:41:32 +0000
+Processing by HelpController#index as */*
+Completed 200 OK in 176ms (Views: 171.1ms | ActiveRecord: 1.3ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 11:41:33 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 2ms (Views: 0.6ms | ActiveRecord: 0.0ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 11:41:48 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 1ms (Views: 0.3ms | ActiveRecord: 0.0ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 11:42:03 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 2ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 11:42:18 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 1ms (Views: 0.4ms | ActiveRecord: 0.0ms)
+Started GET "/help" for 127.0.0.1 at 2021-05-05 11:42:32 +0000
+Processing by HelpController#index as */*
+Completed 200 OK in 146ms (Views: 135.4ms | ActiveRecord: 1.0ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 11:42:33 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 3ms (Views: 1.1ms | ActiveRecord: 0.0ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 11:42:48 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 1ms (Views: 0.3ms | ActiveRecord: 0.0ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 11:43:03 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 1ms (Views: 0.3ms | ActiveRecord: 0.0ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 11:43:18 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 1ms (Views: 0.3ms | ActiveRecord: 0.0ms)
+Started GET "/help" for 127.0.0.1 at 2021-05-05 11:43:32 +0000
+Processing by HelpController#index as */*
+Completed 200 OK in 123ms (Views: 118.1ms | ActiveRecord: 1.2ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 11:43:33 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 8ms (Views: 2.9ms | ActiveRecord: 0.0ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 11:43:48 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 2ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 11:44:03 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 5ms (Views: 1.5ms | ActiveRecord: 0.0ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 11:44:18 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 1ms (Views: 0.3ms | ActiveRecord: 0.0ms)
+Started GET "/help" for 127.0.0.1 at 2021-05-05 11:44:32 +0000
+Processing by HelpController#index as */*
+Completed 200 OK in 123ms (Views: 115.3ms | ActiveRecord: 0.9ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 11:44:32 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 1ms (Views: 0.2ms | ActiveRecord: 0.0ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 11:44:47 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 5ms (Views: 2.9ms | ActiveRecord: 0.0ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 11:45:02 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 2ms (Views: 0.6ms | ActiveRecord: 0.0ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 11:45:17 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 1ms (Views: 0.2ms | ActiveRecord: 0.0ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 11:45:32 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 2ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+Started GET "/help" for 127.0.0.1 at 2021-05-05 11:45:32 +0000
+Processing by HelpController#index as */*
+Completed 200 OK in 148ms (Views: 143.1ms | ActiveRecord: 1.3ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 11:45:47 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 1ms (Views: 0.2ms | ActiveRecord: 0.0ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 11:46:02 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 1ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 11:46:17 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 1ms (Views: 0.2ms | ActiveRecord: 0.0ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 11:46:32 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 1ms (Views: 0.2ms | ActiveRecord: 0.0ms)
+Started GET "/help" for 127.0.0.1 at 2021-05-05 11:46:33 +0000
+Processing by HelpController#index as */*
+Completed 200 OK in 108ms (Views: 103.6ms | ActiveRecord: 0.7ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 11:46:47 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 1ms (Views: 0.4ms | ActiveRecord: 0.0ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 11:47:02 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 2ms (Views: 0.4ms | ActiveRecord: 0.0ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 11:47:17 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 2ms (Views: 0.6ms | ActiveRecord: 0.0ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 11:47:32 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 1ms (Views: 0.3ms | ActiveRecord: 0.0ms)
+Started GET "/help" for 127.0.0.1 at 2021-05-05 11:47:33 +0000
+Processing by HelpController#index as */*
+Completed 200 OK in 123ms (Views: 118.0ms | ActiveRecord: 1.2ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 11:47:47 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 1ms (Views: 0.2ms | ActiveRecord: 0.0ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 11:48:02 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 1ms (Views: 0.3ms | ActiveRecord: 0.0ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 11:48:17 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 2ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 11:48:32 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 1ms (Views: 0.3ms | ActiveRecord: 0.0ms)
+Started GET "/help" for 127.0.0.1 at 2021-05-05 11:48:33 +0000
+Processing by HelpController#index as */*
+Completed 200 OK in 136ms (Views: 129.9ms | ActiveRecord: 0.9ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 11:48:47 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 2ms (Views: 1.0ms | ActiveRecord: 0.0ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 11:49:02 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 2ms (Views: 0.6ms | ActiveRecord: 0.0ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 11:49:17 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 1ms (Views: 0.2ms | ActiveRecord: 0.0ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 11:49:32 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 1ms (Views: 0.2ms | ActiveRecord: 0.0ms)
+Started GET "/help" for 127.0.0.1 at 2021-05-05 11:49:33 +0000
+Processing by HelpController#index as */*
+Completed 200 OK in 127ms (Views: 121.7ms | ActiveRecord: 1.5ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 11:49:47 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 2ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 11:50:02 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 1ms (Views: 0.3ms | ActiveRecord: 0.0ms)
+Scheduling removal of build artifacts
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 11:50:17 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 1ms (Views: 0.3ms | ActiveRecord: 0.0ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 11:50:32 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 9ms (Views: 3.6ms | ActiveRecord: 0.0ms)
+Started GET "/help" for 127.0.0.1 at 2021-05-05 11:50:34 +0000
+Processing by HelpController#index as */*
+Completed 200 OK in 137ms (Views: 132.4ms | ActiveRecord: 1.1ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 11:50:47 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 1ms (Views: 0.3ms | ActiveRecord: 0.0ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 11:51:02 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 1ms (Views: 0.3ms | ActiveRecord: 0.0ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 11:51:17 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 2ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 11:51:32 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 1ms (Views: 0.2ms | ActiveRecord: 0.0ms)
+Started GET "/help" for 127.0.0.1 at 2021-05-05 11:51:34 +0000
+Processing by HelpController#index as */*
+Completed 200 OK in 108ms (Views: 98.3ms | ActiveRecord: 0.9ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 11:51:47 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 1ms (Views: 0.7ms | ActiveRecord: 0.0ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 11:52:02 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 1ms (Views: 0.4ms | ActiveRecord: 0.0ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 11:52:17 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 1ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 11:52:32 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 1ms (Views: 0.3ms | ActiveRecord: 0.0ms)
+Started GET "/help" for 127.0.0.1 at 2021-05-05 11:52:34 +0000
+Processing by HelpController#index as */*
+Completed 200 OK in 133ms (Views: 128.1ms | ActiveRecord: 1.6ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 11:52:47 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 2ms (Views: 0.2ms | ActiveRecord: 0.0ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 11:53:02 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 1ms (Views: 0.3ms | ActiveRecord: 0.0ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 11:53:17 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 4ms (Views: 1.0ms | ActiveRecord: 0.0ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 11:53:32 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 2ms (Views: 0.7ms | ActiveRecord: 0.0ms)
+Started GET "/help" for 127.0.0.1 at 2021-05-05 11:53:34 +0000
+Processing by HelpController#index as */*
+Completed 200 OK in 125ms (Views: 119.1ms | ActiveRecord: 0.9ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 11:53:47 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 2ms (Views: 0.7ms | ActiveRecord: 0.0ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 11:54:02 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 4ms (Views: 1.3ms | ActiveRecord: 0.0ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 11:54:17 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 1ms (Views: 0.4ms | ActiveRecord: 0.0ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 11:54:32 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 3ms (Views: 1.0ms | ActiveRecord: 0.0ms)
+Started GET "/help" for 127.0.0.1 at 2021-05-05 11:54:34 +0000
+Processing by HelpController#index as */*
+Completed 200 OK in 142ms (Views: 136.6ms | ActiveRecord: 0.6ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 11:54:47 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 1ms (Views: 0.3ms | ActiveRecord: 0.0ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 11:55:02 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 2ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 11:55:17 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 2ms (Views: 0.6ms | ActiveRecord: 0.0ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 11:55:32 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 1ms (Views: 0.3ms | ActiveRecord: 0.0ms)
+Started GET "/help" for 127.0.0.1 at 2021-05-05 11:55:35 +0000
+Processing by HelpController#index as */*
+Completed 200 OK in 126ms (Views: 118.8ms | ActiveRecord: 1.2ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 11:55:47 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 7ms (Views: 1.6ms | ActiveRecord: 0.0ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 11:56:02 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 3ms (Views: 0.6ms | ActiveRecord: 0.0ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 11:56:17 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 1ms (Views: 0.2ms | ActiveRecord: 0.0ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 11:56:32 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 4ms (Views: 1.6ms | ActiveRecord: 0.0ms)
+Started GET "/help" for 127.0.0.1 at 2021-05-05 11:56:35 +0000
+Processing by HelpController#index as */*
+Completed 200 OK in 137ms (Views: 131.9ms | ActiveRecord: 0.7ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 11:56:47 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 1ms (Views: 0.3ms | ActiveRecord: 0.0ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 11:57:02 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 1ms (Views: 0.2ms | ActiveRecord: 0.0ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 11:57:17 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 1ms (Views: 0.2ms | ActiveRecord: 0.0ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 11:57:32 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 1ms (Views: 0.2ms | ActiveRecord: 0.0ms)
+Started GET "/help" for 127.0.0.1 at 2021-05-05 11:57:35 +0000
+Processing by HelpController#index as */*
+Completed 200 OK in 187ms (Views: 179.1ms | ActiveRecord: 0.7ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 11:57:47 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 2ms (Views: 0.8ms | ActiveRecord: 0.0ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 11:58:02 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 2ms (Views: 0.6ms | ActiveRecord: 0.0ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 11:58:17 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 1ms (Views: 0.2ms | ActiveRecord: 0.0ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 11:58:32 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 1ms (Views: 0.3ms | ActiveRecord: 0.0ms)
+Started GET "/help" for 127.0.0.1 at 2021-05-05 11:58:35 +0000
+Processing by HelpController#index as */*
+Completed 200 OK in 156ms (Views: 151.8ms | ActiveRecord: 1.0ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 11:58:47 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 2ms (Views: 0.3ms | ActiveRecord: 0.0ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 11:59:02 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 1ms (Views: 0.3ms | ActiveRecord: 0.0ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 11:59:16 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 1ms (Views: 0.4ms | ActiveRecord: 0.0ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 11:59:31 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 2ms (Views: 0.7ms | ActiveRecord: 0.0ms)
+Started GET "/help" for 127.0.0.1 at 2021-05-05 11:59:35 +0000
+Processing by HelpController#index as */*
+Completed 200 OK in 104ms (Views: 99.9ms | ActiveRecord: 0.9ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 11:59:46 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 1ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 12:00:01 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 1ms (Views: 0.2ms | ActiveRecord: 0.0ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 12:00:16 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 1ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+StuckCiJobsWorker: Cleaning stuck builds
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 12:00:31 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 2ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+Started GET "/help" for 127.0.0.1 at 2021-05-05 12:00:36 +0000
+Processing by HelpController#index as */*
+Completed 200 OK in 114ms (Views: 106.5ms | ActiveRecord: 0.8ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 12:00:46 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 1ms (Views: 0.2ms | ActiveRecord: 0.0ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 12:01:01 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 3ms (Views: 1.0ms | ActiveRecord: 0.0ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 12:01:16 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 1ms (Views: 0.3ms | ActiveRecord: 0.0ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 12:01:31 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 1ms (Views: 0.4ms | ActiveRecord: 0.0ms)
+Started GET "/help" for 127.0.0.1 at 2021-05-05 12:01:36 +0000
+Processing by HelpController#index as */*
+Completed 200 OK in 143ms (Views: 131.2ms | ActiveRecord: 1.4ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 12:01:46 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 1ms (Views: 0.3ms | ActiveRecord: 0.0ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 12:02:01 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 2ms (Views: 0.7ms | ActiveRecord: 0.0ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 12:02:16 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 2ms (Views: 0.2ms | ActiveRecord: 0.0ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 12:02:31 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 1ms (Views: 0.3ms | ActiveRecord: 0.0ms)
+Started GET "/help" for 127.0.0.1 at 2021-05-05 12:02:36 +0000
+Processing by HelpController#index as */*
+Completed 200 OK in 206ms (Views: 198.0ms | ActiveRecord: 1.1ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 12:02:46 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 4ms (Views: 1.4ms | ActiveRecord: 0.0ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 12:03:01 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 2ms (Views: 0.3ms | ActiveRecord: 0.0ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 12:03:16 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 5ms (Views: 0.9ms | ActiveRecord: 0.0ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 12:03:31 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 1ms (Views: 0.3ms | ActiveRecord: 0.0ms)
+Started GET "/help" for 127.0.0.1 at 2021-05-05 12:03:36 +0000
+Processing by HelpController#index as */*
+Completed 200 OK in 132ms (Views: 128.3ms | ActiveRecord: 0.7ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 12:03:46 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 3ms (Views: 1.6ms | ActiveRecord: 0.0ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 12:04:01 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 1ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 12:04:16 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 1ms (Views: 0.3ms | ActiveRecord: 0.0ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 12:04:31 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 3ms (Views: 0.3ms | ActiveRecord: 0.0ms)
+Started GET "/help" for 127.0.0.1 at 2021-05-05 12:04:37 +0000
+Processing by HelpController#index as */*
+Completed 200 OK in 558ms (Views: 545.6ms | ActiveRecord: 1.4ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 12:04:46 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 3ms (Views: 1.8ms | ActiveRecord: 0.0ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 12:05:01 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 2ms (Views: 0.8ms | ActiveRecord: 0.0ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 12:05:16 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 2ms (Views: 1.1ms | ActiveRecord: 0.0ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 12:05:31 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 1ms (Views: 0.3ms | ActiveRecord: 0.0ms)
+Started GET "/help" for 127.0.0.1 at 2021-05-05 12:05:37 +0000
+Processing by HelpController#index as */*
+Completed 200 OK in 120ms (Views: 111.7ms | ActiveRecord: 1.4ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 12:05:46 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 1ms (Views: 0.4ms | ActiveRecord: 0.0ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 12:06:01 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 1ms (Views: 0.3ms | ActiveRecord: 0.0ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 12:06:16 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 2ms (Views: 0.6ms | ActiveRecord: 0.0ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 12:06:31 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 1ms (Views: 0.3ms | ActiveRecord: 0.0ms)
+Started GET "/help" for 127.0.0.1 at 2021-05-05 12:06:38 +0000
+Processing by HelpController#index as */*
+Completed 200 OK in 173ms (Views: 169.1ms | ActiveRecord: 1.2ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 12:06:46 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 2ms (Views: 0.6ms | ActiveRecord: 0.0ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 12:07:01 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 4ms (Views: 0.3ms | ActiveRecord: 0.0ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 12:07:16 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 1ms (Views: 0.2ms | ActiveRecord: 0.0ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 12:07:31 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 1ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+Started GET "/help" for 127.0.0.1 at 2021-05-05 12:07:38 +0000
+Processing by HelpController#index as */*
+Completed 200 OK in 214ms (Views: 202.0ms | ActiveRecord: 1.2ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 12:07:46 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 2ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 12:08:01 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 2ms (Views: 1.0ms | ActiveRecord: 0.0ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 12:08:16 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 2ms (Views: 0.7ms | ActiveRecord: 0.0ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 12:08:31 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 1ms (Views: 0.3ms | ActiveRecord: 0.0ms)
+Started GET "/help" for 127.0.0.1 at 2021-05-05 12:08:38 +0000
+Processing by HelpController#index as */*
+Completed 200 OK in 342ms (Views: 331.5ms | ActiveRecord: 0.9ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 12:08:46 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 2ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 12:09:01 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 2ms (Views: 0.7ms | ActiveRecord: 0.0ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 12:09:16 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 1ms (Views: 0.4ms | ActiveRecord: 0.0ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 12:09:31 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 1ms (Views: 0.2ms | ActiveRecord: 0.0ms)
+Started GET "/help" for 127.0.0.1 at 2021-05-05 12:09:40 +0000
+Processing by HelpController#index as */*
+Completed 200 OK in 279ms (Views: 265.7ms | ActiveRecord: 8.9ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 12:09:46 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 1ms (Views: 0.3ms | ActiveRecord: 0.0ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 12:10:01 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 1ms (Views: 0.3ms | ActiveRecord: 0.0ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 12:10:16 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 10ms (Views: 4.8ms | ActiveRecord: 0.0ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 12:10:31 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 1ms (Views: 0.3ms | ActiveRecord: 0.0ms)
+Started GET "/help" for 127.0.0.1 at 2021-05-05 12:10:40 +0000
+Processing by HelpController#index as */*
+Completed 200 OK in 104ms (Views: 100.3ms | ActiveRecord: 0.6ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 12:10:46 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 1ms (Views: 0.2ms | ActiveRecord: 0.0ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 12:11:01 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 2ms (Views: 0.8ms | ActiveRecord: 0.0ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 12:11:16 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 1ms (Views: 0.3ms | ActiveRecord: 0.0ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 12:11:31 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 3ms (Views: 0.9ms | ActiveRecord: 0.0ms)
+Started GET "/help" for 127.0.0.1 at 2021-05-05 12:11:40 +0000
+Processing by HelpController#index as */*
+Completed 200 OK in 116ms (Views: 111.5ms | ActiveRecord: 0.9ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 12:11:46 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 1ms (Views: 0.3ms | ActiveRecord: 0.0ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 12:12:01 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 1ms (Views: 0.3ms | ActiveRecord: 0.0ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 12:12:16 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 1ms (Views: 0.4ms | ActiveRecord: 0.0ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 12:12:31 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 3ms (Views: 0.9ms | ActiveRecord: 0.0ms)
+Started GET "/help" for 127.0.0.1 at 2021-05-05 12:12:40 +0000
+Processing by HelpController#index as */*
+Completed 200 OK in 117ms (Views: 112.2ms | ActiveRecord: 0.7ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 12:12:46 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 6ms (Views: 2.0ms | ActiveRecord: 0.0ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 12:13:01 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 1ms (Views: 0.3ms | ActiveRecord: 0.0ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 12:13:16 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 1ms (Views: 0.3ms | ActiveRecord: 0.0ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 12:13:31 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 10ms (Views: 2.2ms | ActiveRecord: 0.0ms)
+Started GET "/help" for 127.0.0.1 at 2021-05-05 12:13:41 +0000
+Processing by HelpController#index as */*
+Completed 200 OK in 133ms (Views: 123.9ms | ActiveRecord: 0.8ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 12:13:45 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 1ms (Views: 0.3ms | ActiveRecord: 0.0ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 12:14:00 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 1ms (Views: 0.4ms | ActiveRecord: 0.0ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 12:14:15 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 3ms (Views: 1.5ms | ActiveRecord: 0.0ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 12:14:30 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 1ms (Views: 0.2ms | ActiveRecord: 0.0ms)
+Started GET "/help" for 127.0.0.1 at 2021-05-05 12:14:41 +0000
+Processing by HelpController#index as */*
+Completed 200 OK in 171ms (Views: 163.2ms | ActiveRecord: 0.7ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 12:14:45 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 2ms (Views: 1.0ms | ActiveRecord: 0.0ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 12:15:00 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 1ms (Views: 0.3ms | ActiveRecord: 0.0ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 12:15:15 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 1ms (Views: 0.3ms | ActiveRecord: 0.0ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 12:15:30 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 1ms (Views: 0.2ms | ActiveRecord: 0.0ms)
+Started GET "/help" for 127.0.0.1 at 2021-05-05 12:15:41 +0000
+Processing by HelpController#index as */*
+Completed 200 OK in 129ms (Views: 122.9ms | ActiveRecord: 1.1ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 12:15:45 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 1ms (Views: 0.3ms | ActiveRecord: 0.0ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 12:16:00 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 1ms (Views: 0.2ms | ActiveRecord: 0.0ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 12:16:15 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 1ms (Views: 0.2ms | ActiveRecord: 0.0ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 12:16:30 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 1ms (Views: 0.3ms | ActiveRecord: 0.0ms)
+Started GET "/help" for 127.0.0.1 at 2021-05-05 12:16:41 +0000
+Processing by HelpController#index as */*
+Completed 200 OK in 96ms (Views: 88.1ms | ActiveRecord: 1.0ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 12:16:45 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 1ms (Views: 0.7ms | ActiveRecord: 0.0ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 12:17:00 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 1ms (Views: 0.3ms | ActiveRecord: 0.0ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 12:17:15 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 1ms (Views: 0.3ms | ActiveRecord: 0.0ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 12:17:30 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 1ms (Views: 0.2ms | ActiveRecord: 0.0ms)
+Started GET "/help" for 127.0.0.1 at 2021-05-05 12:17:42 +0000
+Processing by HelpController#index as */*
+Completed 200 OK in 127ms (Views: 120.3ms | ActiveRecord: 2.5ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 12:17:45 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 1ms (Views: 0.3ms | ActiveRecord: 0.0ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 12:18:00 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 1ms (Views: 0.4ms | ActiveRecord: 0.0ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 12:18:15 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 1ms (Views: 0.4ms | ActiveRecord: 0.0ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 12:18:30 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 1ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+Started GET "/help" for 127.0.0.1 at 2021-05-05 12:18:42 +0000
+Processing by HelpController#index as */*
+Completed 200 OK in 130ms (Views: 122.7ms | ActiveRecord: 1.4ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 12:18:45 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 2ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 12:19:00 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 1ms (Views: 0.4ms | ActiveRecord: 0.0ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 12:19:15 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 1ms (Views: 0.3ms | ActiveRecord: 0.0ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 12:19:30 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 1ms (Views: 0.2ms | ActiveRecord: 0.0ms)
+Started GET "/help" for 127.0.0.1 at 2021-05-05 12:19:42 +0000
+Processing by HelpController#index as */*
+Completed 200 OK in 109ms (Views: 102.2ms | ActiveRecord: 0.8ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 12:19:45 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 5ms (Views: 1.7ms | ActiveRecord: 0.0ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 12:20:00 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 2ms (Views: 0.6ms | ActiveRecord: 0.0ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 12:20:15 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 1ms (Views: 0.3ms | ActiveRecord: 0.0ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 12:20:30 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 2ms (Views: 0.7ms | ActiveRecord: 0.0ms)
+Started GET "/help" for 127.0.0.1 at 2021-05-05 12:20:42 +0000
+Processing by HelpController#index as */*
+Completed 200 OK in 102ms (Views: 95.9ms | ActiveRecord: 1.1ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 12:20:45 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 1ms (Views: 0.3ms | ActiveRecord: 0.0ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 12:21:00 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 1ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 12:21:15 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 2ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 12:21:30 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 2ms (Views: 0.6ms | ActiveRecord: 0.0ms)
+Started GET "/help" for 127.0.0.1 at 2021-05-05 12:21:42 +0000
+Processing by HelpController#index as */*
+Completed 200 OK in 118ms (Views: 113.4ms | ActiveRecord: 1.0ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 12:21:45 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 1ms (Views: 0.3ms | ActiveRecord: 0.0ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 12:22:00 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 3ms (Views: 0.8ms | ActiveRecord: 0.0ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 12:22:15 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 1ms (Views: 0.3ms | ActiveRecord: 0.0ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 12:22:30 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 2ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+Started GET "/help" for 127.0.0.1 at 2021-05-05 12:22:43 +0000
+Processing by HelpController#index as */*
+Completed 200 OK in 213ms (Views: 199.0ms | ActiveRecord: 4.8ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 12:22:45 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 1ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 12:23:00 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 2ms (Views: 0.3ms | ActiveRecord: 0.0ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 12:23:15 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 2ms (Views: 0.9ms | ActiveRecord: 0.0ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 12:23:30 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 1ms (Views: 0.3ms | ActiveRecord: 0.0ms)
+Started GET "/help" for 127.0.0.1 at 2021-05-05 12:23:43 +0000
+Processing by HelpController#index as */*
+Completed 200 OK in 169ms (Views: 124.2ms | ActiveRecord: 1.0ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 12:23:45 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 1ms (Views: 0.2ms | ActiveRecord: 0.0ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 12:24:00 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 1ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 12:24:15 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 1ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 12:24:30 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 4ms (Views: 1.4ms | ActiveRecord: 0.0ms)
+Started GET "/help" for 127.0.0.1 at 2021-05-05 12:24:43 +0000
+Processing by HelpController#index as */*
+Completed 200 OK in 434ms (Views: 420.9ms | ActiveRecord: 8.1ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 12:24:45 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 9ms (Views: 0.3ms | ActiveRecord: 0.0ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 12:25:00 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 2ms (Views: 0.8ms | ActiveRecord: 0.0ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 12:25:15 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 6ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 12:25:30 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 2ms (Views: 0.6ms | ActiveRecord: 0.0ms)
+Started GET "/help" for 127.0.0.1 at 2021-05-05 12:25:44 +0000
+Processing by HelpController#index as */*
+Completed 200 OK in 230ms (Views: 223.5ms | ActiveRecord: 0.9ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 12:25:45 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 1ms (Views: 0.4ms | ActiveRecord: 0.0ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 12:26:00 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 1ms (Views: 0.3ms | ActiveRecord: 0.0ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 12:26:15 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 2ms (Views: 0.7ms | ActiveRecord: 0.0ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 12:26:30 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 2ms (Views: 0.4ms | ActiveRecord: 0.0ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 12:26:45 +0000
+Started GET "/help" for 127.0.0.1 at 2021-05-05 12:26:45 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 1ms (Views: 0.3ms | ActiveRecord: 0.0ms)
+Processing by HelpController#index as */*
+Completed 200 OK in 211ms (Views: 196.1ms | ActiveRecord: 9.0ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 12:27:00 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 1ms (Views: 0.2ms | ActiveRecord: 0.0ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 12:27:15 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 1ms (Views: 0.2ms | ActiveRecord: 0.0ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 12:27:30 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 1ms (Views: 0.3ms | ActiveRecord: 0.0ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 12:27:45 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 1ms (Views: 0.2ms | ActiveRecord: 0.0ms)
+Started GET "/help" for 127.0.0.1 at 2021-05-05 12:27:45 +0000
+Processing by HelpController#index as */*
+Completed 200 OK in 192ms (Views: 186.2ms | ActiveRecord: 0.8ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 12:28:00 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 4ms (Views: 0.7ms | ActiveRecord: 0.0ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 12:28:14 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 2ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 12:28:29 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 1ms (Views: 0.2ms | ActiveRecord: 0.0ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 12:28:44 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 2ms (Views: 0.6ms | ActiveRecord: 0.0ms)
+Started GET "/help" for 127.0.0.1 at 2021-05-05 12:28:46 +0000
+Processing by HelpController#index as */*
+Completed 200 OK in 186ms (Views: 178.9ms | ActiveRecord: 1.5ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 12:28:59 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 1ms (Views: 0.3ms | ActiveRecord: 0.0ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 12:29:14 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 2ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 12:29:29 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 2ms (Views: 0.6ms | ActiveRecord: 0.0ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 12:29:44 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 4ms (Views: 1.6ms | ActiveRecord: 0.0ms)
+Started GET "/help" for 127.0.0.1 at 2021-05-05 12:29:46 +0000
+Processing by HelpController#index as */*
+Completed 200 OK in 371ms (Views: 361.2ms | ActiveRecord: 1.8ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 12:29:59 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 3ms (Views: 2.3ms | ActiveRecord: 0.0ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 12:30:14 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 3ms (Views: 1.0ms | ActiveRecord: 0.0ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 12:30:29 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 2ms (Views: 0.2ms | ActiveRecord: 0.0ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 12:30:44 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 2ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+Started GET "/help" for 127.0.0.1 at 2021-05-05 12:30:47 +0000
+Processing by HelpController#index as */*
+Completed 200 OK in 171ms (Views: 163.9ms | ActiveRecord: 1.4ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 12:30:59 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 1ms (Views: 0.4ms | ActiveRecord: 0.0ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 12:31:14 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 2ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 12:31:29 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 3ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 12:31:44 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 1ms (Views: 0.2ms | ActiveRecord: 0.0ms)
+Started GET "/help" for 127.0.0.1 at 2021-05-05 12:31:47 +0000
+Processing by HelpController#index as */*
+Completed 200 OK in 199ms (Views: 194.4ms | ActiveRecord: 0.7ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 12:31:59 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 3ms (Views: 0.9ms | ActiveRecord: 0.0ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 12:32:14 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 4ms (Views: 1.0ms | ActiveRecord: 0.0ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 12:32:29 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 2ms (Views: 0.4ms | ActiveRecord: 0.0ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 12:32:44 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 2ms (Views: 0.7ms | ActiveRecord: 0.0ms)
+Started GET "/help" for 127.0.0.1 at 2021-05-05 12:32:48 +0000
+Processing by HelpController#index as */*
+Completed 200 OK in 152ms (Views: 145.6ms | ActiveRecord: 1.3ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 12:32:59 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 1ms (Views: 0.2ms | ActiveRecord: 0.0ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 12:33:14 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 2ms (Views: 0.6ms | ActiveRecord: 0.0ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 12:33:29 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 10ms (Views: 4.1ms | ActiveRecord: 0.0ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 12:33:44 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 1ms (Views: 0.4ms | ActiveRecord: 0.0ms)
+Started GET "/help" for 127.0.0.1 at 2021-05-05 12:33:48 +0000
+Processing by HelpController#index as */*
+Completed 200 OK in 162ms (Views: 148.7ms | ActiveRecord: 5.4ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 12:33:59 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 2ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 12:34:14 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 2ms (Views: 0.7ms | ActiveRecord: 0.0ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 12:34:29 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 1ms (Views: 0.3ms | ActiveRecord: 0.0ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 12:34:44 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 2ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+Started GET "/help" for 127.0.0.1 at 2021-05-05 12:34:49 +0000
+Processing by HelpController#index as */*
+Completed 200 OK in 186ms (Views: 178.1ms | ActiveRecord: 1.0ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 12:34:59 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 4ms (Views: 1.9ms | ActiveRecord: 0.0ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 12:35:14 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 2ms (Views: 0.8ms | ActiveRecord: 0.0ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 12:35:29 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 2ms (Views: 0.4ms | ActiveRecord: 0.0ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 12:35:44 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 9ms (Views: 0.7ms | ActiveRecord: 0.0ms)
+Started GET "/help" for 127.0.0.1 at 2021-05-05 12:35:49 +0000
+Processing by HelpController#index as */*
+Completed 200 OK in 493ms (Views: 474.0ms | ActiveRecord: 3.9ms)
+Started GET "/-/metrics" for 127.0.0.1 at 2021-05-05 12:35:59 +0000
+Processing by MetricsController#index as HTML
+Completed 200 OK in 1ms (Views: 0.3ms | ActiveRecord: 0.0ms)
