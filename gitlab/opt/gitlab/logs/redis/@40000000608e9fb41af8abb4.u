@@ -1,0 +1,5 @@
+2021-05-01_16:11:33.05378 423:M 01 May 16:11:33.053 * 10 changes in 300 seconds. Saving...
+2021-05-01_16:11:33.05758 423:M 01 May 16:11:33.057 * Background saving started by pid 1803
+2021-05-01_16:11:33.08644 1803:C 01 May 16:11:33.086 * DB saved on disk
+2021-05-01_16:11:33.08980 1803:C 01 May 16:11:33.089 * RDB: 0 MB of memory used by copy-on-write
+2021-05-01_16:11:33.16795 423:M 01 May 16:11:33.166 * Background saving terminated with success

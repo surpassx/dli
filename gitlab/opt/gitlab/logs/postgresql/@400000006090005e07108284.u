@@ -1,0 +1,53 @@
+2021-05-02_12:48:43.13537 LOG:  database system was interrupted; last known up at 2021-05-01 16:11:39 GMT
+2021-05-02_12:48:50.62358 FATAL:  the database system is starting up
+2021-05-02_12:48:50.74619 LOG:  could not open file "./server.crt": Operation not permitted
+2021-05-02_12:48:50.74770 LOG:  could not open file "./server.key": Operation not permitted
+2021-05-02_12:48:50.75902 LOG:  database system was not properly shut down; automatic recovery in progress
+2021-05-02_12:48:50.86339 LOG:  redo starts at 0/1A9E968
+2021-05-02_12:48:50.88837 LOG:  invalid record length at 0/1AA0E18: wanted 24, got 0
+2021-05-02_12:48:50.88882 LOG:  redo done at 0/1AA0DF0
+2021-05-02_12:48:50.88967 LOG:  last completed transaction was at log time 2021-05-01 16:13:12.570812+00
+2021-05-02_12:48:50.94603 LOG:  MultiXact member wraparound protections are now enabled
+2021-05-02_12:48:50.95174 LOG:  database system is ready to accept connections
+2021-05-02_12:48:50.95429 LOG:  autovacuum launcher started
+2021-05-02_12:52:21.40177 WARNING:  could not open statistics file "pg_stat_tmp/global.stat": Operation not permitted
+2021-05-02_12:55:04.50091 WARNING:  could not open statistics file "pg_stat_tmp/global.stat": Operation not permitted
+2021-05-02_12:56:03.21106 WARNING:  could not open statistics file "pg_stat_tmp/global.stat": Operation not permitted
+2021-05-02_12:56:18.64234 WARNING:  could not open statistics file "pg_stat_tmp/global.stat": Operation not permitted
+2021-05-02_12:58:48.86525 WARNING:  could not open statistics file "pg_stat_tmp/global.stat": Operation not permitted
+2021-05-02_13:00:21.36266 WARNING:  could not open statistics file "pg_stat_tmp/global.stat": Operation not permitted
+2021-05-02_13:05:21.49785 WARNING:  could not open statistics file "pg_stat_tmp/global.stat": Operation not permitted
+2021-05-02_13:06:21.51821 WARNING:  could not open statistics file "pg_stat_tmp/global.stat": Operation not permitted
+2021-05-02_13:21:51.96537 WARNING:  could not open statistics file "pg_stat_tmp/global.stat": Operation not permitted
+2021-05-02_13:23:52.66106 WARNING:  could not open statistics file "pg_stat_tmp/global.stat": Operation not permitted
+2021-05-02_13:24:46.07636 WARNING:  could not open statistics file "pg_stat_tmp/global.stat": Operation not permitted
+2021-05-02_13:26:36.71383 WARNING:  could not open statistics file "pg_stat_tmp/global.stat": Operation not permitted
+2021-05-02_13:34:46.35138 WARNING:  could not open statistics file "pg_stat_tmp/global.stat": Operation not permitted
+2021-05-02_13:35:05.75424 WARNING:  could not open statistics file "pg_stat_tmp/global.stat": Operation not permitted
+2021-05-02_13:36:20.65123 WARNING:  could not open statistics file "pg_stat_tmp/global.stat": Operation not permitted
+2021-05-02_13:38:20.82529 WARNING:  could not open statistics file "pg_stat_tmp/global.stat": Operation not permitted
+2021-05-02_13:38:20.82847 WARNING:  could not open statistics file "pg_stat_tmp/global.stat": Operation not permitted
+2021-05-02_13:39:05.92324 WARNING:  could not open statistics file "pg_stat_tmp/global.stat": Operation not permitted
+2021-05-02_13:41:46.48677 WARNING:  could not open statistics file "pg_stat_tmp/global.stat": Operation not permitted
+2021-05-02_13:42:20.97228 WARNING:  could not open statistics file "pg_stat_tmp/global.stat": Operation not permitted
+2021-05-02_13:44:05.45816 WARNING:  could not open statistics file "pg_stat_tmp/global.stat": Operation not permitted
+2021-05-02_13:44:20.57336 WARNING:  could not open statistics file "pg_stat_tmp/global.stat": Operation not permitted
+2021-05-02_13:45:35.43568 WARNING:  could not open statistics file "pg_stat_tmp/global.stat": Operation not permitted
+2021-05-02_13:49:46.71121 WARNING:  could not open statistics file "pg_stat_tmp/global.stat": Operation not permitted
+2021-05-02_13:52:06.17693 WARNING:  could not open statistics file "pg_stat_tmp/global.stat": Operation not permitted
+2021-05-02_13:52:19.95811 WARNING:  could not open statistics file "pg_stat_tmp/global.stat": Operation not permitted
+2021-05-02_13:52:46.77739 WARNING:  could not open statistics file "pg_stat_tmp/global.stat": Operation not permitted
+2021-05-02_13:53:34.87346 WARNING:  could not open statistics file "pg_stat_tmp/global.stat": Operation not permitted
+2021-05-02_13:55:06.66425 WARNING:  could not open statistics file "pg_stat_tmp/global.stat": Operation not permitted
+2021-05-02_13:55:20.11026 WARNING:  could not open statistics file "pg_stat_tmp/global.stat": Operation not permitted
+2021-05-02_13:57:36.53027 WARNING:  could not open statistics file "pg_stat_tmp/global.stat": Operation not permitted
+2021-05-02_14:00:46.81675 WARNING:  could not open statistics file "pg_stat_tmp/global.stat": Operation not permitted
+2021-05-02_14:02:22.77549 WARNING:  could not open statistics file "pg_stat_tmp/global.stat": Operation not permitted
+2021-05-02_14:02:49.21462 WARNING:  could not open statistics file "pg_stat_tmp/global.stat": Operation not permitted
+2021-05-02_14:05:51.00532 WARNING:  could not open statistics file "pg_stat_tmp/global.stat": Operation not permitted
+2021-05-02_14:06:04.48345 WARNING:  could not open statistics file "pg_stat_tmp/global.stat": Operation not permitted
+2021-05-02_14:06:34.37974 WARNING:  could not open statistics file "pg_stat_tmp/global.stat": Operation not permitted
+2021-05-02_14:06:49.33763 WARNING:  could not open statistics file "pg_stat_tmp/global.stat": Operation not permitted
+2021-05-02_14:11:23.08610 WARNING:  could not open statistics file "pg_stat_tmp/global.stat": Operation not permitted
+2021-05-02_14:13:18.50135 WARNING:  could not open statistics file "pg_stat_tmp/global.stat": Operation not permitted
+2021-05-02_14:13:48.03739 WARNING:  could not open statistics file "pg_stat_tmp/global.stat": Operation not permitted

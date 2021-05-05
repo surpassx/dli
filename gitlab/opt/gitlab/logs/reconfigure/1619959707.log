@@ -1,0 +1,41 @@
+# Logfile created on 2021-05-02 20:48:27 +0800 by logger.rb/56815
+[2021-05-02T20:48:28+08:00] INFO: Started chef-zero at chefzero://localhost:1 with repository at /opt/gitlab/embedded
+  One version per cookbook
+
+[2021-05-02T20:48:28+08:00] INFO: *** Chef 13.6.4 ***
+[2021-05-02T20:48:28+08:00] INFO: Platform: x86_64-linux
+[2021-05-02T20:48:28+08:00] INFO: Chef-client pid: 44
+[2021-05-02T20:48:28+08:00] INFO: The plugin path /etc/chef/ohai/plugins does not exist. Skipping...
+[2021-05-02T20:48:29+08:00] WARN: Plugin Network: unable to detect ipaddress
+[2021-05-02T20:48:30+08:00] INFO: Setting the run_list to ["recipe[gitlab]"] from CLI options
+[2021-05-02T20:48:30+08:00] INFO: Run List is [recipe[gitlab]]
+[2021-05-02T20:48:30+08:00] INFO: Run List expands to [gitlab]
+[2021-05-02T20:48:30+08:00] INFO: Starting Chef Run for gitlab
+[2021-05-02T20:48:30+08:00] INFO: Running start handlers
+[2021-05-02T20:48:30+08:00] INFO: Start handlers complete.
+[2021-05-02T20:48:31+08:00] INFO: Loading cookbooks [gitlab@0.0.1, package@0.1.0, postgresql@0.1.0, registry@0.1.0, mattermost@0.1.0, consul@0.0.0, gitaly@0.1.0, letsencrypt@0.1.0, nginx@0.1.0, runit@0.14.2, acme@3.1.0, crond@0.1.0, compat_resource@12.19.0]
+[2021-05-02T20:48:35+08:00] WARN: Runtime directory '/run' is not a tmpfs.
+[2021-05-02T20:48:35+08:00] WARN: Skipped selecting an init system because it looks like we are running in a container
+[2021-05-02T20:48:35+08:00] INFO: The plugin path /etc/chef/ohai/plugins does not exist. Skipping...
+[2021-05-02T20:48:36+08:00] INFO: execute[/opt/gitlab/embedded/service/gitlab-shell/bin/gitlab-keys check-permissions] ran successfully
+[2021-05-02T20:48:37+08:00] INFO: execute[chown -R root:root /opt/gitlab/embedded/service/gitlab-rails/public] ran successfully
+[2021-05-02T20:48:37+08:00] INFO: template[/var/opt/gitlab/redis/redis.conf] owner changed to 997
+[2021-05-02T20:48:38+08:00] INFO: link[/opt/gitlab/service/redis] created
+[2021-05-02T20:48:38+08:00] INFO: link[/opt/gitlab/service/postgresql] created
+[2021-05-02T20:48:39+08:00] INFO: link[/opt/gitlab/service/unicorn] created
+[2021-05-02T20:48:39+08:00] INFO: link[/opt/gitlab/service/sidekiq] created
+[2021-05-02T20:48:39+08:00] INFO: link[/opt/gitlab/service/gitlab-workhorse] created
+[2021-05-02T20:48:39+08:00] INFO: link[/opt/gitlab/service/nginx] created
+[2021-05-02T20:48:39+08:00] INFO: link[/opt/gitlab/service/logrotate] created
+[2021-05-02T20:48:39+08:00] INFO: link[/opt/gitlab/service/gitaly] created
+[2021-05-02T20:48:39+08:00] INFO: link[/opt/gitlab/service/node-exporter] created
+[2021-05-02T20:48:39+08:00] INFO: link[/opt/gitlab/service/gitlab-monitor] created
+[2021-05-02T20:48:39+08:00] INFO: link[/opt/gitlab/service/redis-exporter] created
+[2021-05-02T20:48:39+08:00] INFO: template[/opt/gitlab/sv/prometheus/run] backed up to /opt/gitlab/embedded/cookbooks/cache/backup/opt/gitlab/sv/prometheus/run.chef-20210502204839.908704
+[2021-05-02T20:48:39+08:00] INFO: template[/opt/gitlab/sv/prometheus/run] updated file contents /opt/gitlab/sv/prometheus/run
+[2021-05-02T20:48:39+08:00] INFO: link[/opt/gitlab/service/prometheus] created
+[2021-05-02T20:48:40+08:00] INFO: link[/opt/gitlab/service/alertmanager] created
+[2021-05-02T20:48:40+08:00] INFO: link[/opt/gitlab/service/postgres-exporter] created
+[2021-05-02T20:48:40+08:00] INFO: Chef Run complete in 10.257352415 seconds
+[2021-05-02T20:48:40+08:00] INFO: Running report handlers
+[2021-05-02T20:48:40+08:00] INFO: Report handlers complete

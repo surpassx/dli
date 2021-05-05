@@ -1,0 +1,3 @@
+2021-05-01_16:12:17.77108 time="2021-05-01T16:12:17Z" level=info msg="Checkpointing in-memory metrics and chunks..." source="persistence.go:633" 
+2021-05-01_16:12:18.02009 time="2021-05-01T16:12:18Z" level=info msg="Done checkpointing in-memory metrics and chunks in 248.455142ms." source="persistence.go:665" 
+2021-05-01_16:12:45.06410 time="2021-05-01T16:12:45Z" level=info msg="Completed initial partial maintenance sweep through 86 in-memory fingerprints in 5m23.486515102s." source="storage.go:1400" 

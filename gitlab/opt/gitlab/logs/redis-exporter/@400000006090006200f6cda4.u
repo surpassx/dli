@@ -1,0 +1,4 @@
+2021-05-02_12:48:42.71730 time="2021-05-02T12:48:42Z" level=info msg="Redis Metrics Exporter 0.20.2    build date: 2018-07-31T00:16:55+00:00    sha1: 4d4fc0ddabba3a1fe237d25d06bacd90927271a8    Go: go1.10.3" 
+2021-05-02_12:48:42.71848 time="2021-05-02T12:48:42Z" level=info msg="Providing metrics at localhost:9121/metrics" 
+2021-05-02_12:48:42.72115 time="2021-05-02T12:48:42Z" level=info msg="Connecting to redis hosts: []string{\"unix:///var/opt/gitlab/redis/redis.socket\"}" 
+2021-05-02_12:48:42.72163 time="2021-05-02T12:48:42Z" level=info msg="Using alias: []string{\"\"}" 

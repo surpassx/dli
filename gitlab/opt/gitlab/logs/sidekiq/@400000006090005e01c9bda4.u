@@ -1,0 +1,64 @@
+2021-05-02_12:49:11.97323 2021-05-02T12:49:11.973Z 514 TID-ovqcqcnsi INFO: Booting Sidekiq 5.1.3 with redis options {:path=>"/var/opt/gitlab/redis/redis.socket", :namespace=>"resque:gitlab", :id=>"Sidekiq-server-PID-514", :url=>nil}
+2021-05-02_12:49:12.10058 2021-05-02T12:49:12.100Z 514 TID-ovqcqcnsi INFO: Cron Jobs - add job with name: stuck_ci_jobs_worker
+2021-05-02_12:49:12.10237 2021-05-02T12:49:12.102Z 514 TID-ovqcqcnsi INFO: Cron Jobs - add job with name: expire_build_artifacts_worker
+2021-05-02_12:49:12.10494 2021-05-02T12:49:12.104Z 514 TID-ovqcqcnsi INFO: Cron Jobs - add job with name: pipeline_schedule_worker
+2021-05-02_12:49:12.10752 2021-05-02T12:49:12.107Z 514 TID-ovqcqcnsi INFO: Cron Jobs - add job with name: repository_check_worker
+2021-05-02_12:49:12.11084 2021-05-02T12:49:12.110Z 514 TID-ovqcqcnsi INFO: Cron Jobs - add job with name: admin_email_worker
+2021-05-02_12:49:12.11392 2021-05-02T12:49:12.113Z 514 TID-ovqcqcnsi INFO: Cron Jobs - add job with name: repository_archive_cache_worker
+2021-05-02_12:49:12.11754 2021-05-02T12:49:12.117Z 514 TID-ovqcqcnsi INFO: Cron Jobs - add job with name: ci_archive_traces_cron_worker
+2021-05-02_12:49:12.12054 2021-05-02T12:49:12.120Z 514 TID-ovqcqcnsi INFO: Cron Jobs - add job with name: pages_domain_verification_cron_worker
+2021-05-02_12:49:12.12367 2021-05-02T12:49:12.123Z 514 TID-ovqcqcnsi INFO: Cron Jobs - add job with name: import_export_project_cleanup_worker
+2021-05-02_12:49:12.12725 2021-05-02T12:49:12.127Z 514 TID-ovqcqcnsi INFO: Cron Jobs - add job with name: requests_profiles_worker
+2021-05-02_12:49:12.13068 2021-05-02T12:49:12.130Z 514 TID-ovqcqcnsi INFO: Cron Jobs - add job with name: remove_expired_members_worker
+2021-05-02_12:49:12.13468 2021-05-02T12:49:12.134Z 514 TID-ovqcqcnsi INFO: Cron Jobs - add job with name: remove_expired_group_links_worker
+2021-05-02_12:49:12.13856 2021-05-02T12:49:12.138Z 514 TID-ovqcqcnsi INFO: Cron Jobs - add job with name: prune_old_events_worker
+2021-05-02_12:49:12.14092 2021-05-02T12:49:12.140Z 514 TID-ovqcqcnsi INFO: Cron Jobs - add job with name: trending_projects_worker
+2021-05-02_12:49:12.14422 2021-05-02T12:49:12.144Z 514 TID-ovqcqcnsi INFO: Cron Jobs - add job with name: remove_unreferenced_lfs_objects_worker
+2021-05-02_12:49:12.14782 2021-05-02T12:49:12.147Z 514 TID-ovqcqcnsi INFO: Cron Jobs - add job with name: stuck_import_jobs_worker
+2021-05-02_12:49:12.15193 2021-05-02T12:49:12.151Z 514 TID-ovqcqcnsi INFO: Cron Jobs - add job with name: gitlab_usage_ping_worker
+2021-05-02_12:49:12.15431 2021-05-02T12:49:12.154Z 514 TID-ovqcqcnsi INFO: Cron Jobs - add job with name: schedule_update_user_activity_worker
+2021-05-02_12:49:12.15695 2021-05-02T12:49:12.156Z 514 TID-ovqcqcnsi INFO: Cron Jobs - add job with name: remove_old_web_hook_logs_worker
+2021-05-02_12:49:12.15857 2021-05-02T12:49:12.158Z 514 TID-ovqcqcnsi INFO: Cron Jobs - add job with name: stuck_merge_jobs_worker
+2021-05-02_12:49:12.16118 2021-05-02T12:49:12.161Z 514 TID-ovqcqcnsi INFO: Cron Jobs - add job with name: issue_due_scheduler_worker
+2021-05-02_12:49:12.16310 2021-05-02T12:49:12.163Z 514 TID-ovqcqcnsi INFO: Cron Jobs - add job with name: prune_web_hook_logs_worker
+2021-05-02_12:49:29.25473 2021-05-02T12:49:29.254Z 514 TID-ovqcqcnsi INFO: Running in ruby 2.4.4p296 (2018-03-28 revision 63013) [x86_64-linux]
+2021-05-02_12:49:29.25554 2021-05-02T12:49:29.254Z 514 TID-ovqcqcnsi INFO: See LICENSE and the LGPL-3.0 for licensing details.
+2021-05-02_12:49:29.25634 2021-05-02T12:49:29.254Z 514 TID-ovqcqcnsi INFO: Upgrade to Sidekiq Pro for more features and support: http://sidekiq.org
+2021-05-02_12:49:29.26434 2021-05-02T12:49:29.264Z 514 TID-ovqcqcnsi INFO: Starting processing, hit Ctrl-C to stop
+2021-05-02_12:49:29.28479 2021-05-02T12:49:29.281Z 514 TID-ovqcqcnsi INFO: Listening on queues ["authorized_projects", "background_migration", "create_gpg_signature", "create_note_diff_file", "cronjob", "cronjob:admin_email", "cronjob:ci_archive_traces_cron", "cronjob:expire_build_artifacts", "cronjob:gitlab_usage_ping", "cronjob:import_export_project_cleanup", "cronjob:issue_due_scheduler", "cronjob:pages_domain_verification_cron", "cronjob:pipeline_schedule", "cronjob:prune_old_events", "cronjob:prune_web_hook_logs", "cronjob:remove_expired_group_links", "cronjob:remove_expired_members", "cronjob:remove_old_web_hook_logs", "cronjob:remove_unreferenced_lfs_objects", "cronjob:repository_archive_cache", "cronjob:repository_check_dispatch", "cronjob:requests_profiles", "cronjob:schedule_update_user_activity", "cronjob:stuck_ci_jobs", "cronjob:stuck_import_jobs", "cronjob:stuck_merge_jobs", "cronjob:trending_projects", "default", "delete_diff_files", "delete_merged_branches", "delete_user", "email_receiver", "emails_on_push", "expire_build_instance_artifacts", "gcp_cluster", "gcp_cluster:cluster_install_app", "gcp_cluster:cluster_provision", "gcp_cluster:cluster_wait_for_app_installation", "gcp_cluster:cluster_wait_for_ingress_ip_address", "gcp_cluster:wait_for_cluster_creation", "git_garbage_collect", "github_import_advance_stage", "github_importer", "github_importer:github_import_import_diff_note", "github_importer:github_import_import_issue", "github_importer:github_import_import_lfs_object", "github_importer:github_import_import_note", "github_importer:github_import_import_pull_request", "github_importer:github_import_refresh_import_jid", "github_importer:github_import_stage_finish_import", "github_importer:github_import_stage_import_base_data", "github_importer:github_import_stage_import_issues_and_diff_notes", "github_importer:github_import_stage_import_lfs_objects", "github_importer:github_import_stage_import_notes", "github_importer:github_import_stage_import_pull_requests", "github_importer:github_import_stage_import_repository", "gitlab_shell", "group_destroy", "invalid_gpg_signature_update", "irker", "mail_scheduler", "mail_scheduler:mail_scheduler_issue_due", "mail_scheduler:mail_scheduler_notification_service", "mailers", "merge", "namespaceless_project_destroy", "new_issue", "new_merge_request", "new_note", "object_storage", "object_storage:object_storage_background_move", "object_storage:object_storage_migrate_uploads", "object_storage_upload", "pages", "pages_domain_verification", "pipeline_background", "pipeline_background:archive_trace", "pipeline_background:ci_build_trace_chunk_flush", "pipeline_cache", "pipeline_cache:expire_job_cache", "pipeline_cache:expire_pipeline_cache", "pipeline_creation", "pipeline_creation:create_pipeline", "pipeline_creation:run_pipeline_schedule", "pipeline_default", "pipeline_default:build_coverage", "pipeline_default:build_trace_sections", "pipeline_default:pipeline_metrics", "pipeline_default:pipeline_notification", "pipeline_hooks", "pipeline_hooks:build_hooks", "pipeline_hooks:pipeline_hooks", "pipeline_processing", "pipeline_processing:build_finished", "pipeline_processing:build_queue", "pipeline_processing:build_success", "pipeline_processing:pipeline_process", "pipeline_processing:pipeline_success", "pipeline_processing:pipeline_update", "pipeline_processing:stage_update", "pipeline_processing:update_head_pipeline_for_merge_request", "plugin", "post_receive", "process_commit", "project_cache", "project_destroy", "project_export", "project_migrate_hashed_storage", "project_service", "propagate_service_template", "reactive_caching", "rebase", "repository_check", "repository_check:repository_check_batch", "repository_check:repository_check_clear", "repository_check:repository_check_single_repository", "repository_fork", "repository_import", "repository_remove_remote", "repository_update_remote_mirror", "storage_migrator", "system_hook_push", "update_merge_requests", "update_user_activity", "upload_checksum", "web_hook"]
+2021-05-02_12:50:20.30132 2021-05-02T12:50:20.301Z 514 TID-ovqacr6zy ExpireBuildArtifactsWorker JID-aec5095b640a3c1ae41c29c1 INFO: start
+2021-05-02_12:50:20.45853 2021-05-02T12:50:20.458Z 514 TID-ovqacr6zy ExpireBuildArtifactsWorker JID-aec5095b640a3c1ae41c29c1 INFO: done: 0.157 sec
+2021-05-02_13:00:22.55708 2021-05-02T13:00:22.556Z 514 TID-ovqacr5i2 ImportExportProjectCleanupWorker JID-493fb82566f8ff96bc33347e INFO: start
+2021-05-02_13:00:22.58745 2021-05-02T13:00:22.587Z 514 TID-ovqacqfwi PagesDomainVerificationCronWorker JID-c7d11a8299beb38fb7614db5 INFO: start
+2021-05-02_13:00:22.64913 2021-05-02T13:00:22.646Z 514 TID-ovqacr6zy PruneWebHookLogsWorker JID-d195daf3b687bb1d5ee271ef INFO: start
+2021-05-02_13:00:22.69876 2021-05-02T13:00:22.698Z 514 TID-ovqacqg5u RepositoryArchiveCacheWorker JID-892c182e5f96e894abedbb50 INFO: start
+2021-05-02_13:00:22.73833 2021-05-02T13:00:22.737Z 514 TID-ovqacr53q StuckCiJobsWorker JID-61f298fd74d5f56d8c96b4ba INFO: start
+2021-05-02_13:00:22.85489 2021-05-02T13:00:22.853Z 514 TID-ovqacr5i2 ImportExportProjectCleanupWorker JID-493fb82566f8ff96bc33347e INFO: done: 0.296 sec
+2021-05-02_13:00:22.85565 2021-05-02T13:00:22.854Z 514 TID-ovqacqg5u RepositoryArchiveCacheWorker JID-892c182e5f96e894abedbb50 INFO: done: 0.156 sec
+2021-05-02_13:00:22.85870 2021-05-02T13:00:22.858Z 514 TID-ovqacqfwi PagesDomainVerificationCronWorker JID-c7d11a8299beb38fb7614db5 INFO: done: 0.271 sec
+2021-05-02_13:00:22.90233 2021-05-02T13:00:22.902Z 514 TID-ovqacr53q StuckCiJobsWorker JID-61f298fd74d5f56d8c96b4ba INFO: done: 0.164 sec
+2021-05-02_13:00:22.90626 2021-05-02T13:00:22.906Z 514 TID-ovqacr6zy PruneWebHookLogsWorker JID-d195daf3b687bb1d5ee271ef INFO: done: 0.259 sec
+2021-05-02_13:19:07.97217 2021-05-02T13:19:07.971Z 514 TID-ovqacqg5u PipelineScheduleWorker JID-946bfa7e749c2c9403ac441c INFO: start
+2021-05-02_13:19:08.04380 2021-05-02T13:19:08.043Z 514 TID-ovqacqg5u PipelineScheduleWorker JID-946bfa7e749c2c9403ac441c INFO: done: 0.072 sec
+2021-05-02_13:20:14.33853 2021-05-02T13:20:14.336Z 514 TID-ovqacr4my RepositoryCheck::DispatchWorker JID-6e7f0e3bc202a478a93b1a34 INFO: start
+2021-05-02_13:20:14.49076 2021-05-02T13:20:14.490Z 514 TID-ovqacqkim RepositoryCheck::BatchWorker JID-ceed5fbc99001ad74fd64cca INFO: start
+2021-05-02_13:20:14.51728 2021-05-02T13:20:14.517Z 514 TID-ovqacr4my RepositoryCheck::DispatchWorker JID-6e7f0e3bc202a478a93b1a34 INFO: done: 0.181 sec
+2021-05-02_13:20:14.57167 2021-05-02T13:20:14.570Z 514 TID-ovqacqkim RepositoryCheck::BatchWorker JID-ceed5fbc99001ad74fd64cca INFO: done: 0.081 sec
+2021-05-02_13:30:23.21598 2021-05-02T13:30:23.215Z 514 TID-ovqacr6oe PagesDomainVerificationCronWorker JID-fab8540fc92fb530462cfe1e INFO: start
+2021-05-02_13:30:23.27823 2021-05-02T13:30:23.278Z 514 TID-ovqacr6oe PagesDomainVerificationCronWorker JID-fab8540fc92fb530462cfe1e INFO: done: 0.062 sec
+2021-05-02_13:45:27.40763 2021-05-02T13:45:27.407Z 514 TID-ovqacr3sy PagesDomainVerificationCronWorker JID-0a60864abf3c1bf6d07b7e69 INFO: start
+2021-05-02_13:45:27.51168 2021-05-02T13:45:27.511Z 514 TID-ovqacr3sy PagesDomainVerificationCronWorker JID-0a60864abf3c1bf6d07b7e69 INFO: done: 0.104 sec
+2021-05-02_13:50:41.86834 2021-05-02T13:50:41.867Z 514 TID-ovqacr5o6 ExpireBuildArtifactsWorker JID-aa7bc47a480287ace795a6a3 INFO: start
+2021-05-02_13:50:42.03748 2021-05-02T13:50:42.037Z 514 TID-ovqacr5o6 ExpireBuildArtifactsWorker JID-aa7bc47a480287ace795a6a3 INFO: done: 0.169 sec
+2021-05-02_14:00:22.81063 2021-05-02T14:00:22.810Z 514 TID-ovqacr4y2 ImportExportProjectCleanupWorker JID-f00b3e2df74f768ad1be9f90 INFO: start
+2021-05-02_14:00:22.84179 2021-05-02T14:00:22.841Z 514 TID-ovqacqhlm PagesDomainVerificationCronWorker JID-1c0fd3d297223f7d2b0df041 INFO: start
+2021-05-02_14:00:22.85741 2021-05-02T14:00:22.857Z 514 TID-ovqacr41a PruneWebHookLogsWorker JID-9b28a7540693a5e53d98cc92 INFO: start
+2021-05-02_14:00:22.88173 2021-05-02T14:00:22.881Z 514 TID-ovqacr4y2 ImportExportProjectCleanupWorker JID-f00b3e2df74f768ad1be9f90 INFO: done: 0.071 sec
+2021-05-02_14:00:22.88389 2021-05-02T14:00:22.883Z 514 TID-ovqacqhlm PagesDomainVerificationCronWorker JID-1c0fd3d297223f7d2b0df041 INFO: done: 0.042 sec
+2021-05-02_14:00:22.89194 2021-05-02T14:00:22.891Z 514 TID-ovqacqica StuckMergeJobsWorker JID-3fb4cade65a00fe87b88318b INFO: start
+2021-05-02_14:00:22.91869 2021-05-02T14:00:22.918Z 514 TID-ovqacqg5u RepositoryArchiveCacheWorker JID-897cd630a36471fe1435463e INFO: start
+2021-05-02_14:00:22.92290 2021-05-02T14:00:22.922Z 514 TID-ovqacr41a PruneWebHookLogsWorker JID-9b28a7540693a5e53d98cc92 INFO: done: 0.065 sec
+2021-05-02_14:00:22.94249 2021-05-02T14:00:22.942Z 514 TID-ovqacr5yu StuckCiJobsWorker JID-6882f67aa5eafc38be09a5a5 INFO: start
+2021-05-02_14:00:22.95106 2021-05-02T14:00:22.943Z 514 TID-ovqacqg5u RepositoryArchiveCacheWorker JID-897cd630a36471fe1435463e INFO: done: 0.026 sec
+2021-05-02_14:00:22.97197 2021-05-02T14:00:22.971Z 514 TID-ovqacr5yu StuckCiJobsWorker JID-6882f67aa5eafc38be09a5a5 INFO: done: 0.03 sec
+2021-05-02_14:00:23.04247 2021-05-02T14:00:23.042Z 514 TID-ovqacqica StuckMergeJobsWorker JID-3fb4cade65a00fe87b88318b INFO: done: 0.15 sec

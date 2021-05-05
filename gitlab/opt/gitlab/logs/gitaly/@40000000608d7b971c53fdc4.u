@@ -1,0 +1,18 @@
+2021-05-01_16:01:13.76184 time="2021-05-01T16:01:13Z" level=info msg="Starting Gitaly" version="Gitaly, version 0.111.2, built 20180731.002935"
+2021-05-01_16:01:13.76544 time="2021-05-01T16:01:13Z" level=warning msg="git path not configured. Using default path resolution" resolvedPath=/opt/gitlab/embedded/bin/git
+2021-05-01_16:01:13.80118 time="2021-05-01T16:01:13Z" level=warning msg="git path not configured. Using default path resolution" resolvedPath=/opt/gitlab/embedded/bin/git
+2021-05-01_16:01:15.08232 time="2021-05-01T16:01:15Z" level=info msg="finished tempdir cleaner walk" storage=default time_ms=2
+2021-05-01_16:01:15.08851 time="2021-05-01T16:01:15Z" level=info msg="listening on unix socket" address=/var/opt/gitlab/gitaly/gitaly.socket
+2021-05-01_16:01:15.09183 time="2021-05-01T16:01:15Z" level=info msg="Starting prometheus listener" address="localhost:9236"
+2021-05-01_16:01:15.10291 time="2021-05-01T16:01:15Z" level=warning msg=spawned supervisor.args="[bundle exec bin/ruby-cd /var/opt/gitlab/gitaly /opt/gitlab/embedded/service/gitaly-ruby/bin/gitaly-ruby 1071 /tmp/gitaly-ruby194837920/socket.0]" supervisor.name=gitaly-ruby.0 supervisor.pid=1089
+2021-05-01_16:01:15.11432 time="2021-05-01T16:01:15Z" level=info msg="starting RSS monitor" supervisor.name=gitaly-ruby.0 supervisor.rss_threshold=314572800
+2021-05-01_16:01:15.11613 time="2021-05-01T16:01:15Z" level=warning msg=spawned supervisor.args="[bundle exec bin/ruby-cd /var/opt/gitlab/gitaly /opt/gitlab/embedded/service/gitaly-ruby/bin/gitaly-ruby 1071 /tmp/gitaly-ruby194837920/socket.1]" supervisor.name=gitaly-ruby.1 supervisor.pid=1092
+2021-05-01_16:01:15.12338 time="2021-05-01T16:01:15Z" level=info msg="starting RSS monitor" supervisor.name=gitaly-ruby.1 supervisor.rss_threshold=314572800
+2021-05-01_16:01:15.99282 time="2021-05-01T16:01:15Z" level=info msg="PID 1092 BUNDLE_GEMFILE=/opt/gitlab/embedded/service/gitaly-ruby/Gemfile" supervisor.args="[bundle exec bin/ruby-cd /var/opt/gitlab/gitaly /opt/gitlab/embedded/service/gitaly-ruby/bin/gitaly-ruby 1071 /tmp/gitaly-ruby194837920/socket.1]" supervisor.name=gitaly-ruby.1
+2021-05-01_16:01:16.21248 time="2021-05-01T16:01:16Z" level=info msg="PID 1089 BUNDLE_GEMFILE=/opt/gitlab/embedded/service/gitaly-ruby/Gemfile" supervisor.args="[bundle exec bin/ruby-cd /var/opt/gitlab/gitaly /opt/gitlab/embedded/service/gitaly-ruby/bin/gitaly-ruby 1071 /tmp/gitaly-ruby194837920/socket.0]" supervisor.name=gitaly-ruby.0
+2021-05-01_16:02:20.01830 time="2021-05-01T16:02:20Z" level=warning msg=exited error="signal: killed" supervisor.args="[bundle exec bin/ruby-cd /var/opt/gitlab/gitaly /opt/gitlab/embedded/service/gitaly-ruby/bin/gitaly-ruby 1071 /tmp/gitaly-ruby194837920/socket.0]" supervisor.name=gitaly-ruby.0
+2021-05-01_16:02:20.02265 time="2021-05-01T16:02:20Z" level=warning msg=exited error="signal: killed" supervisor.args="[bundle exec bin/ruby-cd /var/opt/gitlab/gitaly /opt/gitlab/embedded/service/gitaly-ruby/bin/gitaly-ruby 1071 /tmp/gitaly-ruby194837920/socket.1]" supervisor.name=gitaly-ruby.1
+2021-05-01_16:02:20.02880 time="2021-05-01T16:02:20Z" level=fatal msg="shutting down" error="received signal \"terminated\""
+2021-05-01_16:02:20.14963 time="2021-05-01T16:02:20Z" level=info msg="Starting Gitaly" version="Gitaly, version 0.111.2, built 20180731.002935"
+2021-05-01_16:02:20.16686 time="2021-05-01T16:02:20Z" level=warning msg="git path not configured. Using default path resolution" resolvedPath=/opt/gitlab/embedded/bin/git
+2021-05-01_16:02:20.18968 time="2021-05-01T16:02:20Z" level=warning msg="git path not configured. Using default path resolution" resolvedPath=/opt/gitlab/embedded/bin/git

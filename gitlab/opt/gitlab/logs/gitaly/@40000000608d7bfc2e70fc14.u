@@ -1,0 +1,9 @@
+2021-05-01_16:02:22.36161 time="2021-05-01T16:02:22Z" level=info msg="listening on unix socket" address=/var/opt/gitlab/gitaly/gitaly.socket
+2021-05-01_16:02:22.36238 time="2021-05-01T16:02:22Z" level=info msg="Starting prometheus listener" address="localhost:9236"
+2021-05-01_16:02:22.37091 time="2021-05-01T16:02:22Z" level=info msg="finished tempdir cleaner walk" storage=default time_ms=13
+2021-05-01_16:02:22.39191 time="2021-05-01T16:02:22Z" level=info msg="starting RSS monitor" supervisor.name=gitaly-ruby.1 supervisor.rss_threshold=314572800
+2021-05-01_16:02:22.39384 time="2021-05-01T16:02:22Z" level=info msg="starting RSS monitor" supervisor.name=gitaly-ruby.0 supervisor.rss_threshold=314572800
+2021-05-01_16:02:22.40862 time="2021-05-01T16:02:22Z" level=warning msg=spawned supervisor.args="[bundle exec bin/ruby-cd /var/opt/gitlab/gitaly /opt/gitlab/embedded/service/gitaly-ruby/bin/gitaly-ruby 1478 /tmp/gitaly-ruby205580197/socket.0]" supervisor.name=gitaly-ruby.0 supervisor.pid=1531
+2021-05-01_16:02:22.47231 time="2021-05-01T16:02:22Z" level=warning msg=spawned supervisor.args="[bundle exec bin/ruby-cd /var/opt/gitlab/gitaly /opt/gitlab/embedded/service/gitaly-ruby/bin/gitaly-ruby 1478 /tmp/gitaly-ruby205580197/socket.1]" supervisor.name=gitaly-ruby.1 supervisor.pid=1534
+2021-05-01_16:02:24.51520 time="2021-05-01T16:02:24Z" level=info msg="PID 1534 BUNDLE_GEMFILE=/opt/gitlab/embedded/service/gitaly-ruby/Gemfile" supervisor.args="[bundle exec bin/ruby-cd /var/opt/gitlab/gitaly /opt/gitlab/embedded/service/gitaly-ruby/bin/gitaly-ruby 1478 /tmp/gitaly-ruby205580197/socket.1]" supervisor.name=gitaly-ruby.1
+2021-05-01_16:02:24.73342 time="2021-05-01T16:02:24Z" level=info msg="PID 1531 BUNDLE_GEMFILE=/opt/gitlab/embedded/service/gitaly-ruby/Gemfile" supervisor.args="[bundle exec bin/ruby-cd /var/opt/gitlab/gitaly /opt/gitlab/embedded/service/gitaly-ruby/bin/gitaly-ruby 1478 /tmp/gitaly-ruby205580197/socket.0]" supervisor.name=gitaly-ruby.0

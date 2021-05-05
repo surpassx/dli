@@ -1,0 +1,2 @@
+2021-05-01_16:02:24.71015 level=info ts=2021-05-01T16:02:24.710050169Z caller=cluster.go:586 component=cluster msg="gossip not settled" polls=0 before=0 now=1 elapsed=2.000324644s
+2021-05-01_16:02:32.73153 level=info ts=2021-05-01T16:02:32.731416858Z caller=cluster.go:578 component=cluster msg="gossip settled; proceeding" elapsed=10.021059799s

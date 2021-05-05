@@ -1,0 +1,27 @@
+2021-05-01_16:03:28.71480 LOG:  database system was interrupted; last known up at 2021-05-01 15:59:31 GMT
+2021-05-01_16:03:29.04024 FATAL:  the database system is starting up
+2021-05-01_16:03:29.39971 FATAL:  the database system is starting up
+2021-05-01_16:03:29.49138 FATAL:  the database system is starting up
+2021-05-01_16:03:29.57334 FATAL:  the database system is starting up
+2021-05-01_16:03:31.74926 FATAL:  the database system is starting up
+2021-05-01_16:03:31.81136 FATAL:  the database system is starting up
+2021-05-01_16:03:31.87379 FATAL:  the database system is starting up
+2021-05-01_16:03:33.98797 FATAL:  the database system is starting up
+2021-05-01_16:03:34.21133 FATAL:  the database system is starting up
+2021-05-01_16:03:34.38292 FATAL:  the database system is starting up
+2021-05-01_16:03:36.51915 FATAL:  the database system is starting up
+2021-05-01_16:03:36.57364 FATAL:  the database system is starting up
+2021-05-01_16:03:36.62220 FATAL:  the database system is starting up
+2021-05-01_16:03:37.82493 LOG:  could not open file "./server.crt": Operation not permitted
+2021-05-01_16:03:37.82647 LOG:  could not open file "./server.key": Operation not permitted
+2021-05-01_16:03:37.84144 LOG:  database system was not properly shut down; automatic recovery in progress
+2021-05-01_16:03:37.93516 LOG:  redo starts at 0/14EF038
+2021-05-01_16:03:38.69081 FATAL:  the database system is starting up
+2021-05-01_16:03:38.73443 FATAL:  the database system is starting up
+2021-05-01_16:03:38.78091 FATAL:  the database system is starting up
+2021-05-01_16:03:40.46917 LOG:  invalid record length at 0/1A95290: wanted 24, got 0
+2021-05-01_16:03:40.47048 LOG:  redo done at 0/1A951B0
+2021-05-01_16:03:40.47591 LOG:  last completed transaction was at log time 2021-05-01 16:00:40.440231+00
+2021-05-01_16:03:40.58679 LOG:  MultiXact member wraparound protections are now enabled
+2021-05-01_16:03:40.59089 LOG:  database system is ready to accept connections
+2021-05-01_16:03:40.59250 LOG:  autovacuum launcher started

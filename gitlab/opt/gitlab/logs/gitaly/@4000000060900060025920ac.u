@@ -1,0 +1,13 @@
+2021-05-02_12:48:42.68678 time="2021-05-02T12:48:42Z" level=info msg="Starting Gitaly" version="Gitaly, version 0.111.2, built 20180731.002935"
+2021-05-02_12:48:42.69052 time="2021-05-02T12:48:42Z" level=warning msg="git path not configured. Using default path resolution" resolvedPath=/opt/gitlab/embedded/bin/git
+2021-05-02_12:48:42.71697 time="2021-05-02T12:48:42Z" level=warning msg="git path not configured. Using default path resolution" resolvedPath=/opt/gitlab/embedded/bin/git
+2021-05-02_12:48:47.87349 time="2021-05-02T12:48:47Z" level=info msg="finished tempdir cleaner walk" storage=default time_ms=2
+2021-05-02_12:48:47.87667 time="2021-05-02T12:48:47Z" level=info msg="listening on unix socket" address=/var/opt/gitlab/gitaly/gitaly.socket
+2021-05-02_12:48:47.87813 time="2021-05-02T12:48:47Z" level=info msg="Starting prometheus listener" address="localhost:9236"
+2021-05-02_12:48:47.93625 time="2021-05-02T12:48:47Z" level=info msg="starting RSS monitor" supervisor.name=gitaly-ruby.0 supervisor.rss_threshold=314572800
+2021-05-02_12:48:47.93703 time="2021-05-02T12:48:47Z" level=info msg="starting RSS monitor" supervisor.name=gitaly-ruby.1 supervisor.rss_threshold=314572800
+2021-05-02_12:48:47.94383 time="2021-05-02T12:48:47Z" level=warning msg=spawned supervisor.args="[bundle exec bin/ruby-cd /var/opt/gitlab/gitaly /opt/gitlab/embedded/service/gitaly-ruby/bin/gitaly-ruby 497 /tmp/gitaly-ruby383411910/socket.0]" supervisor.name=gitaly-ruby.0 supervisor.pid=590
+2021-05-02_12:48:47.94999 time="2021-05-02T12:48:47Z" level=warning msg=spawned supervisor.args="[bundle exec bin/ruby-cd /var/opt/gitlab/gitaly /opt/gitlab/embedded/service/gitaly-ruby/bin/gitaly-ruby 497 /tmp/gitaly-ruby383411910/socket.1]" supervisor.name=gitaly-ruby.1 supervisor.pid=591
+2021-05-02_12:48:50.06870 time="2021-05-02T12:48:50Z" level=info msg="PID 590 BUNDLE_GEMFILE=/opt/gitlab/embedded/service/gitaly-ruby/Gemfile" supervisor.args="[bundle exec bin/ruby-cd /var/opt/gitlab/gitaly /opt/gitlab/embedded/service/gitaly-ruby/bin/gitaly-ruby 497 /tmp/gitaly-ruby383411910/socket.0]" supervisor.name=gitaly-ruby.0
+2021-05-02_12:48:51.01230 time="2021-05-02T12:48:51Z" level=info msg="PID 591 BUNDLE_GEMFILE=/opt/gitlab/embedded/service/gitaly-ruby/Gemfile" supervisor.args="[bundle exec bin/ruby-cd /var/opt/gitlab/gitaly /opt/gitlab/embedded/service/gitaly-ruby/bin/gitaly-ruby 497 /tmp/gitaly-ruby383411910/socket.1]" supervisor.name=gitaly-ruby.1
+2021-05-02_13:20:14.48056 time="2021-05-02T13:20:14Z" level=info msg="finished unary call" grpc.code=OK grpc.meta.client_name=gitlab-sidekiq grpc.method=Check grpc.service=grpc.health.v1.Health grpc.time_ms=0 peer.address=@ span.kind=server system=grpc

@@ -1,0 +1,4 @@
+2021-05-01_16:08:11.30961 WARNING:  could not open statistics file "pg_stat_tmp/global.stat": Operation not permitted
+2021-05-01_16:08:19.23609 WARNING:  could not open statistics file "pg_stat_tmp/global.stat": Operation not permitted
+2021-05-01_16:10:59.29145 WARNING:  could not open statistics file "pg_stat_tmp/global.stat": Operation not permitted
+2021-05-01_16:13:26.37451 WARNING:  could not open statistics file "pg_stat_tmp/global.stat": Operation not permitted
