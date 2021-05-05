@@ -1,24 +1,23 @@
 const KongOption = {
     KongHOST: 'http://59.110.124.65:8001',
     service: {
-        name: 'local-view',
+        name: 'test-http',
         protocol: 'http',
         port: 80,
         connect_timeout: 60000,
         write_timeout: 60000,
-        host: 'ups-local-view'
+        host: 'ups-test-http'
     },
     route: {
-        name: 'local-view',
-        hosts: ['datav.mok88.com'],
-        // paths: ['/oems/(?i)'],
+        name: 'test-http',
+        hosts: ['api.mok88.com'],
+        paths: ['/test/(?i)'],
         methods: ['POST', 'GET', 'PUT', 'DELETE', 'OPTIONS', 'HEAD', 'TRACE', 'CONNECT'],
         protocols: ['http', 'https'],
-        service: {name: 'local-view'},
-        https_redirect_status_code: 302
+        service: {name: 'test-http'}
     },
     upstream: {
-        name: 'ups-local-view',
+        name: 'ups-test-http',
         'healthchecks': {
             'active': {
                 'https_verify_certificate': true,
@@ -29,7 +28,7 @@ const KongOption = {
                     'http_failures': 0,
                     'interval': 0
                 },
-                'http_path': '/server/common/checkHealth',
+                'http_path': '/test/metrics',
                 'timeout': 1,
                 'healthy': {
                     'http_statuses': [200, 302],
@@ -56,10 +55,10 @@ const KongOption = {
         }
     },
     target: {
-        // target: 'local-view.payfun:1424',
         target: '59.110.124.65:8080',
         weight: 100,
         upstream: ''
     }
 }
+
 module.exports = KongOption

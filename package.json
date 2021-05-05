@@ -1,5 +1,5 @@
 {
   "dependencies": {
-    "@payfun/node-kong": "^1.0.4"
+    "@payfun/node-kong": "^2.0.0"
   }
 }

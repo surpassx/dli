@@ -1,24 +1,24 @@
 const KongOption = {
     KongHOST: 'http://59.110.124.65:8001',
     service: {
-        name: 'local-view',
+        name: 'datav-view',
         protocol: 'http',
         port: 80,
         connect_timeout: 60000,
         write_timeout: 60000,
-        host: 'ups-local-view'
+        host: 'ups-datav-view'
     },
     route: {
-        name: 'local-view',
+        name: 'datav-view',
         hosts: ['datav.mok88.com'],
         // paths: ['/oems/(?i)'],
         methods: ['POST', 'GET', 'PUT', 'DELETE', 'OPTIONS', 'HEAD', 'TRACE', 'CONNECT'],
         protocols: ['http', 'https'],
-        service: {name: 'local-view'},
+        service: {name: 'datav-view'},
         https_redirect_status_code: 302
     },
     upstream: {
-        name: 'ups-local-view',
+        name: 'ups-datav-view',
         'healthchecks': {
             'active': {
                 'https_verify_certificate': true,
@@ -56,7 +56,7 @@ const KongOption = {
         }
     },
     target: {
-        // target: 'local-view.payfun:1424',
+        // target: 'datav-view.payfun:1424',
         target: '59.110.124.65:8080',
         weight: 100,
         upstream: ''
