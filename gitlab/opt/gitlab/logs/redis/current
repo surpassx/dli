@@ -992,3 +992,23 @@
 2021-05-05_12:31:54.76928 33030:C 05 May 12:31:54.761 * DB saved on disk
 2021-05-05_12:31:54.77457 33030:C 05 May 12:31:54.761 * RDB: 1 MB of memory used by copy-on-write
 2021-05-05_12:31:54.79263 470:M 05 May 12:31:54.792 * Background saving terminated with success
+2021-05-05_12:36:55.02461 470:M 05 May 12:36:55.024 * 10 changes in 300 seconds. Saving...
+2021-05-05_12:36:55.02639 470:M 05 May 12:36:55.025 * Background saving started by pid 33706
+2021-05-05_12:36:55.07140 33706:C 05 May 12:36:55.071 * DB saved on disk
+2021-05-05_12:36:55.07275 33706:C 05 May 12:36:55.071 * RDB: 0 MB of memory used by copy-on-write
+2021-05-05_12:36:55.12955 470:M 05 May 12:36:55.129 * Background saving terminated with success
+2021-05-05_12:41:56.08983 470:M 05 May 12:41:56.089 * 10 changes in 300 seconds. Saving...
+2021-05-05_12:41:56.10036 470:M 05 May 12:41:56.090 * Background saving started by pid 34383
+2021-05-05_12:41:56.25749 34383:C 05 May 12:41:56.257 * DB saved on disk
+2021-05-05_12:41:56.25935 34383:C 05 May 12:41:56.259 * RDB: 1 MB of memory used by copy-on-write
+2021-05-05_12:41:56.29196 470:M 05 May 12:41:56.291 * Background saving terminated with success
+2021-05-05_12:46:57.02731 470:M 05 May 12:46:57.026 * 10 changes in 300 seconds. Saving...
+2021-05-05_12:46:57.03045 470:M 05 May 12:46:57.030 * Background saving started by pid 35059
+2021-05-05_12:46:57.08799 35059:C 05 May 12:46:57.087 * DB saved on disk
+2021-05-05_12:46:57.08877 35059:C 05 May 12:46:57.088 * RDB: 0 MB of memory used by copy-on-write
+2021-05-05_12:46:57.13270 470:M 05 May 12:46:57.132 * Background saving terminated with success
+2021-05-05_12:51:58.04239 470:M 05 May 12:51:58.042 * 10 changes in 300 seconds. Saving...
+2021-05-05_12:51:58.04458 470:M 05 May 12:51:58.042 * Background saving started by pid 35744
+2021-05-05_12:51:58.09304 35744:C 05 May 12:51:58.092 * DB saved on disk
+2021-05-05_12:51:58.09384 35744:C 05 May 12:51:58.093 * RDB: 1 MB of memory used by copy-on-write
+2021-05-05_12:51:58.14750 470:M 05 May 12:51:58.147 * Background saving terminated with success

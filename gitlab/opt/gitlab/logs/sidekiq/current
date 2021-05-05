@@ -504,3 +504,7 @@
 2021-05-05_12:20:08.72911 2021-05-05T12:20:08.728Z 477 TID-ot7otovsh RepositoryCheck::BatchWorker JID-605194a795e7e2fa6c7f2d17 INFO: done: 0.017 sec
 2021-05-05_12:30:26.88479 2021-05-05T12:30:26.884Z 477 TID-ot7taisth PagesDomainVerificationCronWorker JID-8b7068ffe146a32cc01fecf0 INFO: start
 2021-05-05_12:30:26.91054 2021-05-05T12:30:26.910Z 477 TID-ot7taisth PagesDomainVerificationCronWorker JID-8b7068ffe146a32cc01fecf0 INFO: done: 0.026 sec
+2021-05-05_12:45:05.45531 2021-05-05T12:45:05.454Z 477 TID-ot7svf931 PagesDomainVerificationCronWorker JID-43fec572fd5b76e5fd9ad9fe INFO: start
+2021-05-05_12:45:05.59496 2021-05-05T12:45:05.594Z 477 TID-ot7svf931 PagesDomainVerificationCronWorker JID-43fec572fd5b76e5fd9ad9fe INFO: done: 0.14 sec
+2021-05-05_12:50:21.21284 2021-05-05T12:50:21.212Z 477 TID-ot7otoof1 ExpireBuildArtifactsWorker JID-91d5a331038103d7d65f3e0d INFO: start
+2021-05-05_12:50:21.25575 2021-05-05T12:50:21.255Z 477 TID-ot7otoof1 ExpireBuildArtifactsWorker JID-91d5a331038103d7d65f3e0d INFO: done: 0.043 sec
