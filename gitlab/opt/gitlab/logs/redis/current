@@ -1,0 +1,22 @@
+2021-05-05_13:27:37.09906 421:M 05 May 13:27:37.098 * 10 changes in 300 seconds. Saving...
+2021-05-05_13:27:37.10263 421:M 05 May 13:27:37.102 * Background saving started by pid 1581
+2021-05-05_13:27:37.21926 1581:C 05 May 13:27:37.218 * DB saved on disk
+2021-05-05_13:27:37.22200 1581:C 05 May 13:27:37.221 * RDB: 0 MB of memory used by copy-on-write
+2021-05-05_13:27:37.30718 421:M 05 May 13:27:37.307 * Background saving terminated with success
+2021-05-05_13:32:38.10013 421:M 05 May 13:32:38.099 * 10 changes in 300 seconds. Saving...
+2021-05-05_13:32:38.10270 421:M 05 May 13:32:38.101 * Background saving started by pid 2284
+2021-05-05_13:32:38.15620 2284:C 05 May 13:32:38.156 * DB saved on disk
+2021-05-05_13:32:38.15766 2284:C 05 May 13:32:38.157 * RDB: 0 MB of memory used by copy-on-write
+2021-05-05_13:32:38.20439 421:M 05 May 13:32:38.204 * Background saving terminated with success
+2021-05-05_13:37:39.03402 421:M 05 May 13:37:39.033 * 10 changes in 300 seconds. Saving...
+2021-05-05_13:37:39.03734 421:M 05 May 13:37:39.034 * Background saving started by pid 2964
+2021-05-05_13:37:39.17253 2964:C 05 May 13:37:39.172 * DB saved on disk
+2021-05-05_13:37:39.17437 2964:C 05 May 13:37:39.172 * RDB: 0 MB of memory used by copy-on-write
+2021-05-05_13:37:39.23668 421:M 05 May 13:37:39.235 * Background saving terminated with success
+2021-05-05_13:40:25.95213 421:signal-handler (1620222025) Received SIGTERM scheduling shutdown...
+2021-05-05_13:40:26.01662 421:M 05 May 13:40:26.016 # User requested shutdown...
+2021-05-05_13:40:26.01900 421:M 05 May 13:40:26.016 * Saving the final RDB snapshot before exiting.
+2021-05-05_13:40:26.08412 421:M 05 May 13:40:26.083 * DB saved on disk
+2021-05-05_13:40:26.08657 421:M 05 May 13:40:26.083 * Removing the pid file.
+2021-05-05_13:40:26.08984 421:M 05 May 13:40:26.084 * Removing the unix socket file.
+2021-05-05_13:40:26.10750 421:M 05 May 13:40:26.085 # Redis is now ready to exit, bye bye...

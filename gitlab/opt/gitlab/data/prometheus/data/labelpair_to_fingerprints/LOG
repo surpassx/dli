@@ -29,3 +29,11 @@
 13:24:18.026175 version@stat F·[2] S·382KiB[382KiB] Sc·[0.50]
 13:24:18.114144 db@janitor F·4 G·0
 13:24:18.115477 db@open done T·185.7281ms
+13:31:37.343257 table@compaction L0·2 -> L1·0 S·382KiB Q·1583
+13:31:37.441284 table@build created L1@8 N·1516 S·283KiB "\x04db\x06db0,v181":"\x1cre..0f4,v414"
+13:31:37.442608 version@stat F·[0 1] S·283KiB[0B 283KiB] Sc·[0.00 0.00]
+13:31:37.444447 table@compaction committed F-1 S-98KiB Ke·0 D·53 T·96.2557ms
+13:31:37.447033 table@remove removed @5
+13:31:37.450313 table@remove removed @2
+13:40:25.669920 db@close closing
+13:40:25.732971 db@close done T·63.0407ms
